@@ -1,10 +1,8 @@
-# eventyay 
+# Support FAQ
 
-## Support FAQ
+## Browse By Topics
 
-### Browse By Topics
-
-#### Event Setup
+### Event Setup
 
 *   [Create an event](/Create-an-event)
 *   [Select payment and currency](/Select-payment-and-currency)
@@ -24,7 +22,7 @@
 *   [Can I set up an event with multiple dates?](/Can-I-set-up-an-event-with-multiple-dates)
 
 
-#### Managing Orders & Attendees
+### Managing Orders & Attendees
 
 *   [How to view report on sales and registered attendees?](/How-to-view-report-on-sales-and-registered-attendees)
 *   [Can I have customized invoices and receipts for my event?](/Can-I-have-customized-invoices-and-receipts-for-my-event)
@@ -38,7 +36,7 @@
 *   [How to edit orders/ attendee details?](/How-to-edit-orders-attendee-details)
 
 
-#### Promotions, Discounts & Special Invitations
+### Promotions, Discounts & Special Invitations
 
 *   [Invitation Codes](/Invitation-Codes)
 *   [Event invitation by email](/Event-invitation-by-email)
@@ -46,7 +44,7 @@
 *   [How can I give a group discount promotion](/How-can-I-give-a-group-discount-promotion)
 
 
-#### Check-In Management
+### Check-In Management
 
 *   [How to manage or track attendees check-in at the event day](/How-to-manage-or-track-attendees-check-in-at-the-event-day)
 *   [eventyay Guests Check-in App and Badge Printing](/eventyay-Check-in-Application-for-iPadiPhone)
@@ -54,7 +52,7 @@
 *   [Export/Download attendees list to Excel or Google Drive](/ExportDownload-attendees-list-to-Excel-or-Google-Drive)
 
 
-#### Marketing & Analytics
+### Marketing & Analytics
 
 *   [How to track your campaigns with a referral code](/How-to-track-your-campaigns-with-a-referral-code)
 *   [How to upload or embed images in event details](/How-to-upload-or-embed-images-in-event-details)
@@ -64,12 +62,12 @@
 *   [How to use Ads Tracking to track my ads campaign performance](/How-to-use-Ads-Tracking-to-track-my-ads-campaign-performance)
 
 
-#### Closing Event Registration
+### Closing Event Registration
 
 *   [How to close event registration](/How-to-close-event-registration)
 
 
-#### Customization & Special Features
+### Customization & Special Features
 
 *   [How do I add a Terms and Conditions to my event?](/How-do-I-add-a-Terms-and-Conditions-to-my-event)
 *   [Customized Event Site and Branding](/Customized-Event-Site-and-Branding)
@@ -78,7 +76,7 @@
 *   [Can I customize the register button?](/Can-I-customize-the-register-button)
 
 
-#### Payment & Ticketing
+### Payment & Ticketing
 
 *   [How do I sell tickets online with eventyay?](/How-do-I-sell-tickets-online-with-eventyay)
 *   [How to mark offline payment as received](/How-to-mark-offline-payment-as-received)
@@ -99,7 +97,7 @@
 *   [Why are PayPal transactions getting failed?](/Why-are-PayPal-transactions-getting-failed)
 
 
-#### Cancellations
+### Cancellations
 
 *   [How to cancel an order?](/How-to-cancel-an-order)
 *   [How do I issue refunds via PayPal?](/How-do-I-issue-refunds-via-PayPal)
