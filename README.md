@@ -1,37 +1,109 @@
-## Welcome to GitHub Pages
+#eventyay 
 
-You can use the [editor on GitHub](https://github.com/fossasia/support.eventyay.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Support FAQ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Browse By Topics
 
-### Markdown
+#### Event Setup
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*   [Create an event](/Create-an-event)
+*   [Select payment and currency](/Select-payment-and-currency)
+*   [Create tickets](/Create-tickets)
+*   [Customize registration form](/Customize-registration-form)
+*   [Manage site content (Adding Pages)](/Manage-site-content-Adding-Pages)
+*   [Manage site content (Adding logo)](/Manage-site-content-Adding-logo)
+*   [How to add a Cover Image](/How-to-add-a-Cover-Image)
+*   [How can I use QR Code eTickets?](/How-can-I-use-QR-Code-eTickets)
+*   [How to set up the Organizer’s Profile](/How-to-set-up-the-Organizers-Profile)
+*   [Registration Confirmation Email](/Registration-Confirmation-Email)
+*   [How do I sell tickets online with eventyay?](/How-do-I-sell-tickets-online-with-eventyay)
+*   [The different types of fields for registration form](/The-different-types-of-fields-for-registration-form)
+*   [How to embed videos into event details](/how-to-embed-videos-into-event-details)
+*   [How do I allow multi-user access to manage the event?](/How-do-I-allow-multi-user-access-to-manage-the-event)
+*   [How do I make my event private?](/How-do-I-make-my-event-private)
+*   [Can I set up an event with multiple dates?](/Can-I-set-up-an-event-with-multiple-dates)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### Managing Orders & Attendees
 
-- Bulleted
-- List
+*   [How to view report on sales and registered attendees?](/How-to-view-report-on-sales-and-registered-attendees)
+*   [Can I have customized invoices and receipts for my event?](/Can-I-have-customized-invoices-and-receipts-for-my-event)
+*   [How to confirm pending orders](/How-to-confirm-pending-orders)
+*   [Export/Download attendees list to Excel or Google Drive](/ExportDownload-attendees-list-to-Excel-or-Google-Drive)
+*   [How to cancel an order?](/How-to-cancel-an-order)
+*   [How to receive a copy of the confirmation emails?](/How-to-receive-a-copy-of-the-confirmation-emails)
+*   [Can I customize the registration confirmation email?](/customize-the-registration-confirmation-email)
+*   [Can I set my company logo and billing contact information in the receipt/invoice?](/Can-I-set-my-company-logo-and-billing-contact-information-in-the-receiptinvoice)
+*   [How to resend confirmation email](/How-to-resend-confirmation-email)
+*   [How to edit orders/ attendee details?](/How-to-edit-orders-attendee-details)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+#### Promotions, Discounts & Special Invitations
 
-[Link](url) and ![Image](src)
-```
+*   [Invitation Codes](/Invitation-Codes)
+*   [Event invitation by email](/Event-invitation-by-email)
+*   [How to add expiry dates to discount codes?](/How-to-add-expiry-dates-to-discount-codes)
+*   [How can I give a group discount promotion](/How-can-I-give-a-group-discount-promotion)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+#### Check-In Management
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fossasia/support.eventyay.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+*   [How to manage or track attendees check-in at the event day](/How-to-manage-or-track-attendees-check-in-at-the-event-day)
+*   [eventyay Guests Check-in App and Badge Printing](/eventyay-Check-in-Application-for-iPadiPhone)
+*   [iPad rental for on-site check-in](/iPad-rental-for-on-site-check-in)
+*   [Export/Download attendees list to Excel or Google Drive](/ExportDownload-attendees-list-to-Excel-or-Google-Drive)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Marketing & Analytics
+
+*   [How to track your campaigns with a referral code](/How-to-track-your-campaigns-with-a-referral-code)
+*   [How to upload or embed images in event details](/How-to-upload-or-embed-images-in-event-details)
+*   [How to add facebook page like box in the event page?](/How-to-add-facebook-page-like-box-in-the-event-page)
+*   [How do I get my event featured on eventyay?](/How-do-I-get-my-event-featured-on-eventyay)
+*   [How to use Google Analytics to improve my event?](/How-to-use-Google-Analytics-to-improve-my-event)
+*   [How to use Ads Tracking to track my ads campaign performance](/How-to-use-Ads-Tracking-to-track-my-ads-campaign-performance)
+
+
+#### Closing Event Registration
+
+*   [How to close event registration](/How-to-close-event-registration)
+
+
+#### Customization & Special Features
+
+*   [How do I add a Terms and Conditions to my event?](/How-do-I-add-a-Terms-and-Conditions-to-my-event)
+*   [Customized Event Site and Branding](/Customized-Event-Site-and-Branding)
+*   [What are the addition available features in the pro plan?](/What-are-the-addition-available-features-in-the-pro-plan)
+*   [Customization of Thank You Page](/Customization-of-Thank-You-Page)
+*   [Can I customize the register button?](/Can-I-customize-the-register-button)
+
+
+#### Payment & Ticketing
+
+*   [How do I sell tickets online with eventyay?](/How-do-I-sell-tickets-online-with-eventyay)
+*   [How to mark offline payment as received](/How-to-mark-offline-payment-as-received)
+*   [How much does it cost to use eventyay?](/How-much-does-it-cost-to-use-eventyay)
+*   [How do I sell tickets using PayPal?](/How-do-I-sell-tickets-using-PayPal)
+*   [How do I sell tickets using Stripe?](/How-do-I-sell-tickets-using-Stripe)
+*   [How do I accept cheque and bank transfer for ticket payments?](162010086/How-do-I-accept-cheque-and-bank-transfer-for-ticket-payments)
+*   [How do I accept on-site / accept payments at the door for ticket sales?](/How-do-I-accept-on-site-accept-payments-at-the-door-for-ticket-sales)
+*   [How do I issue refunds via PayPal?](/How-do-I-issue-refunds-via-PayPal)
+*   [How do I sign up for a PayPal account?](/How-do-I-sign-up-for-a-PayPal-account)
+*   [How do I sign up for a Stripe account?](/How-do-I-sign-up-for-a-stripe-account)
+*   [Can I sell tickets or allow registration on my own website using embeddable widget?](/Can-I-sell-tickets-or-allow-registration-on-my-own-website-using-embeddable-widget)
+*   [Can I issue invoices for my ticket sales?](/Can-I-issue-invoices-for-my-ticket-sales)
+*   [Can I collect Tax in my ticket sales?](/Can-I-collect-Tax-in-my-ticket-sales)
+*   [Currencies supported](/Currencies-supported)
+*   [How to create discount / promotional codes?](/How-to-create-discount-promotional-codes)
+*   [Promote ticket sales via Facebook](/Promote-ticket-sales-via-Facebook)
+*   [Why are PayPal transactions getting failed?](/Why-are-PayPal-transactions-getting-failed)
+
+
+#### Cancellations
+
+*   [How to cancel an order?](/How-to-cancel-an-order)
+*   [How do I issue refunds via PayPal?](/How-do-I-issue-refunds-via-PayPal)
+*   [Can I do partial cancellation?](/Can-I-do-partial-cancellation)
+*   [An attendee can’t make it. Can I do partial refund?](/An-attendee-cant-make-it-Can-I-do-partial-refund)
+*   [How to cancel my event?](/How-to-cancel-my-event)
+*   [Does eventyay charge for attendees that refund?](/Does-eventyay-charge-for-attendees-that-refund)
