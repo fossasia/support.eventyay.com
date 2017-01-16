@@ -4,22 +4,22 @@
 
 ### Event Setup
 
-*   [Create an event](/Create-an-event)
-*   [Select payment and currency](/Select-payment-and-currency)
-*   [Create tickets](/Create-tickets)
-*   [Customize registration form](/Customize-registration-form)
-*   [Manage site content (Adding Pages)](/Manage-site-content-Adding-Pages)
-*   [Manage site content (Adding logo)](/Manage-site-content-Adding-logo)
-*   [How to add a Cover Image](/How-to-add-a-Cover-Image)
-*   [How can I use QR Code eTickets?](/How-can-I-use-QR-Code-eTickets)
-*   [How to set up the Organizer’s Profile](/How-to-set-up-the-Organizers-Profile)
-*   [Registration Confirmation Email](/Registration-Confirmation-Email)
-*   [How do I sell tickets online with eventyay?](/How-do-I-sell-tickets-online-with-eventyay)
-*   [The different types of fields for registration form](/The-different-types-of-fields-for-registration-form)
-*   [How to embed videos into event details](/how-to-embed-videos-into-event-details)
-*   [How do I allow multi-user access to manage the event?](/How-do-I-allow-multi-user-access-to-manage-the-event)
-*   [How do I make my event private?](/How-do-I-make-my-event-private)
-*   [Can I set up an event with multiple dates?](/Can-I-set-up-an-event-with-multiple-dates)
+*   [Create an event](/event-setup/create-event)
+*   [Select payment and currency](/event-setup/select-payment-and-currency)
+*   [Create tickets](/event-setup/Create-tickets)
+*   [Customize registration form](/event-setup/Customize-registration-form)
+*   [Manage site content (Adding Pages)](/event-setup/Manage-site-content-Adding-Pages)
+*   [Manage site content (Adding logo)](/event-setup/Manage-site-content-Adding-logo)
+*   [How to add a Cover Image](/event-setup/How-to-add-a-Cover-Image)
+*   [How can I use QR Code eTickets?](/event-setup/How-can-I-use-QR-Code-eTickets)
+*   [How to add Organizer’s Information](/event-setup/add-organizer-information)
+*   [Registration Confirmation Email](/event-setup/Registration-Confirmation-Email)
+*   [How do I sell tickets online with eventyay?](/event-setup/How-do-I-sell-tickets-online-with-eventyay)
+*   [The different types of fields for registration form](/event-setup/The-different-types-of-fields-for-registration-form)
+*   [How to embed videos into event details](/event-setup/how-to-embed-videos-into-event-details)
+*   [How do I allow multi-user access to manage the event?](/event-setup/How-do-I-allow-multi-user-access-to-manage-the-event)
+*   [How do I make my event private?](/event-setup/How-do-I-make-my-event-private)
+*   [Can I set up an event with multiple dates?](/event-setup/Can-I-set-up-an-event-with-multiple-dates)
 
 
 ### Managing Orders & Attendees
