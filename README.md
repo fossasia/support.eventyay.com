@@ -17,7 +17,7 @@
 *   [How do I sell tickets online with eventyay?](/event-setup/How-do-I-sell-tickets-online-with-eventyay)
 *   [The different types of fields for registration form](/event-setup/The-different-types-of-fields-for-registration-form)
 *   [How to embed videos into event details](/event-setup/how-to-embed-videos-into-event-details)
-*   [How do I allow multi-user access to manage the event?](/event-setup/How-do-I-allow-multi-user-access-to-manage-the-event)
+*   [How do I allow multi-user access to manage the event?](/event-setup/multi-user-event-management)
 *   [How do I make my event private?](/event-setup/How-do-I-make-my-event-private)
 *   [Can I set up an event with multiple dates?](/event-setup/Can-I-set-up-an-event-with-multiple-dates)
 
