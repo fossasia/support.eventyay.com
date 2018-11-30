@@ -12,4 +12,4 @@ A popup window appears where you can specify the user email and role to add.
 
 ![Add people](/event-setup/images/popup.PNG)
 
-Clcik on add people to save your progress.
+Click on add people to save your progress.
