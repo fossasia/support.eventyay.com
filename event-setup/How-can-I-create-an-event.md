@@ -1,4 +1,4 @@
-# Creating an Event on the Platform
+# How can I create an event?
 
 Whhen you go to eventyay's main page, you'll find a `Create Event` button.
 
