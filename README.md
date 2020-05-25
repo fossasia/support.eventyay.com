@@ -4,7 +4,7 @@
 
 ### Event Setup
 
-*   [Create an event](/event-setup/create-event)
+*   [Create an event](/event-setup/create-event.md)
 *   [Select payment and currency](/event-setup/select-payment-and-currency)
 *   [Create tickets](/event-setup/Create-tickets)
 *   [Customize registration form](/event-setup/Customize-registration-form)
