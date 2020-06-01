@@ -100,7 +100,7 @@
 ### Cancellations & Refund 
 
 *   [How to cancel an order?](/cancellations/How-to-cancel-an-order)
-*   [Set a refund policy](/cancellations/Set-a-refund-policy)
+*   [Set a refund policy](/cancellations/Set-a-refund-policy.md)
 *   [How do I issue refunds via PayPal?](/cancellations/How-do-I-issue-refunds-via-PayPal)
 *   [Can I do partial cancellation?](/cancellations/Can-I-do-partial-cancellation)
 *   [An attendee can’t make it. Can I do partial refund?](/cancellations/An-attendee-cant-make-it-Can-I-do-partial-refund)
