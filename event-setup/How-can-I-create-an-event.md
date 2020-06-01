@@ -13,11 +13,13 @@ the process to have your account created.
 
 Upon finishing the registeration process, you'll be redirected to the `Create Event` page.
 
-![Create Event Form](/event-setup/images/create-event.PNG)
+## Adding Basic Details 
+
+![Create Event Form](/event-setup/images/create_event_basic_details_1.png)
 ![Create Event Form 2](/event-setup/images/create-event-2.PNG)
 
-Fill in your event details, event name, location (Make sure you enter that right, so that it appears live!), 
-description (be as detailed as possible!), image, event logo.
+Fill in your event details: name, location, timezone (Make sure you enter that right, so that it appears live!), 
+description (be as detailed as possible!), image and event logo.
 
 When finishing your event details, now enter the organizer's details, in other words, your details (if you're the one organizing).
 You can choose to hide these if you do not wish to enter them.
