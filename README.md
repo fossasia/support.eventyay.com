@@ -99,9 +99,10 @@
 
 ### Cancellations & Refund 
 
-*   [How to cancel an order?](/How-to-cancel-an-order)
-*   [How do I issue refunds via PayPal?](/How-do-I-issue-refunds-via-PayPal)
-*   [Can I do partial cancellation?](/Can-I-do-partial-cancellation)
-*   [An attendee can’t make it. Can I do partial refund?](/An-attendee-cant-make-it-Can-I-do-partial-refund)
-*   [How to cancel my event?](/How-to-cancel-my-event)
-*   [Does eventyay charge for attendees that refund?](/Does-eventyay-charge-for-attendees-that-refund)
+*   [How to cancel an order?](/cancellations/How-to-cancel-an-order)
+*   [Set a refund policy](/cancellations/Set-a-refund-policy)
+*   [How do I issue refunds via PayPal?](/cancellations/How-do-I-issue-refunds-via-PayPal)
+*   [Can I do partial cancellation?](/cancellations/Can-I-do-partial-cancellation)
+*   [An attendee can’t make it. Can I do partial refund?](/cancellations/An-attendee-cant-make-it-Can-I-do-partial-refund)
+*   [How to cancel my event?](/cancellations/How-to-cancel-my-event)
+*   [Does eventyay charge for attendees that refund?](/cancellations/Does-eventyay-charge-for-attendees-that-refund)
