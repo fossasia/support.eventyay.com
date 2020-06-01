@@ -97,7 +97,7 @@
 *   [Why are PayPal transactions getting failed?](/Why-are-PayPal-transactions-getting-failed)
 
 
-### Cancellations
+### Cancellations & Refund 
 
 *   [How to cancel an order?](/How-to-cancel-an-order)
 *   [How do I issue refunds via PayPal?](/How-do-I-issue-refunds-via-PayPal)
