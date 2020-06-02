@@ -15,20 +15,20 @@ Upon finishing the registeration process, you'll be redirected to the `Create Ev
 
 ## Adding Basic Details 
 
-![Create Event Form](/event-setup/images/how-to-create-an-event-basic-details1.png)
-
 Fill in your event details: name, location, timezone (Make sure you enter that right, so that it appears live!), 
 description (be as detailed as possible!), logo and event's cover image.
 
-![Create Event Form 2](/event-setup/images/how-to-create-an-event-basic-details2.png)
+![Create Event Form](/event-setup/images/how-to-create-an-event-basic-details1.png)
 
 Slide the cursor to the right if you wish to add owner/organizer's details. Underneath you see the boxes where you can add website & all 
 social media links of the event. 
 
-![Organizer Details](/event-setup/images/how-to-create-an-event-basic-details3.png))
+![Create Event Form 2](/event-setup/images/how-to-create-an-event-basic-details2.png)
 
 Next, you will need to provide tickets information. Add at least one ticket type to proceed. A details explaination on adding tickets 
 can be found here.
+
+![Organizer Details](/event-setup/images/how-to-create-an-event-basic-details3.png))
 
 Finally, add any additional details, like the type, topic and license, etc...
 
