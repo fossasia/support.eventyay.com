@@ -16,24 +16,21 @@ Upon finishing the registeration process, you'll be redirected to the `Create Ev
 ## Adding Basic Details 
 
 ![Create Event Form](/event-setup/images/how-to-create-an-event-basic-details1.png)
-![Create Event Form 2](/event-setup/images/create-event-2.PNG)
 
 Fill in your event details: name, location, timezone (Make sure you enter that right, so that it appears live!), 
-description (be as detailed as possible!), image and event logo.
+description (be as detailed as possible!), logo and event's cover image.
 
-When finishing your event details, now enter the organizer's details, in other words, your details (if you're the one organizing).
-You can choose to hide these if you do not wish to enter them.
+![Create Event Form 2](/event-setup/images/how-to-create-an-event-basic-details2.png)
 
-![Organizer Details](/event-setup/images/organizer-detail.PNG)
+Slide the cursor to the right if you wish to add owner/organizer's details. Underneath you see the boxes where you can add website & all 
+social media links of the event. 
 
-Heading to the next step, you can choose whether you want to use eventyay's ticketing system or not. 
-If you do not wish to use it, then provide your tickets URL.
+![Organizer Details](/event-setup/images/how-to-create-an-event-basic-details3.png))
 
-![Ticketing System](/event-setup/images/ticket-system.PNG)
+Next, you will need to provide tickets information. Add at least one ticket type to proceed. A details explaination on adding tickets 
+can be found here.
 
 Finally, add any additional details, like the type, topic and license, etc...
-
-![Additional Details](/event-setup/images/additional-details.PNG)
 
 Click `Save and Proceed` to go the next step of the event creation process.
 
