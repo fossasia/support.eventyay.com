@@ -28,11 +28,14 @@ social media links of the event.
 Next, you will need to provide tickets information. Add at least one ticket type to proceed. A details explaination on adding tickets 
 can be found here.
 
-![Organizer Details](/event-setup/images/how-to-create-an-event-basic-details3.png))
+Finally, add any additional details, like the type, topic and license, etc... Click `Save and Proceed` to go the next step of the event 
+creation process.
 
-Finally, add any additional details, like the type, topic and license, etc...
+![Organizer Details](/event-setup/images/how-to-create-an-event-basic-details3.png)
 
-Click `Save and Proceed` to go the next step of the event creation process.
+## Attendee Form 
+
+## Sponsors
 
 If you wish to include Sponsors, click on `turn on sponsors` and then add their details.
 
