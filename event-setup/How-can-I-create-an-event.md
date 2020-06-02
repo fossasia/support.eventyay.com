@@ -9,7 +9,7 @@ Click on it to get started!
 You'll then be asked to login or register on the website, which is needed to create an event, follow
 the process to have your account created.
 
-![Logging and Registering](/event-setup/images/login.PNG)
+![Logging and Registering](/event-setup/images/login_box_new.png)
 
 Upon finishing the registeration process, you'll be redirected to the `Create Event` page.
 
