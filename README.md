@@ -38,7 +38,7 @@
 
 ### Promotions, Discounts & Special Invitations
 
-*   [Invitation Codes](/Invitation-Codes)
+*   [How to create a discount code?](/event-setup/How-to-create-a-discount-code.md)
 *   [Event invitation by email](/Event-invitation-by-email)
 *   [How to add expiry dates to discount codes?](/How-to-add-expiry-dates-to-discount-codes)
 *   [How can I give a group discount promotion](/How-can-I-give-a-group-discount-promotion)
