@@ -15,7 +15,7 @@ Upon finishing the registeration process, you'll be redirected to the `Create Ev
 
 ## Adding Basic Details 
 
-![Create Event Form](/event-setup/images/create_event_basic_details_1.png)
+![Create Event Form](/event-setup/images/how-to-create-an-event-basic-details1.png)
 ![Create Event Form 2](/event-setup/images/create-event-2.PNG)
 
 Fill in your event details: name, location, timezone (Make sure you enter that right, so that it appears live!), 
