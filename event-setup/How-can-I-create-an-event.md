@@ -23,7 +23,7 @@ description (be as detailed as possible!), logo and event's cover image.
 Slide the cursor to the right if you wish to add owner/organizer's details. Underneath you see the boxes where you can add website & all 
 social media links of the event. 
 
-![Create Event Form 2](/event-setup/images/how-to-create-an-event-basic-details2.png)
+![Create Event Form 2](/event-setup/images/create-an-event-attendee-form2_edited.png)
 
 Next, you will need to provide tickets information. Add at least one ticket type to proceed. A details explaination on adding tickets 
 can be found here.
@@ -35,9 +35,11 @@ creation process.
 
 ## Attendee Form 
 
-Next, turn on attendee form and choose the information you want to collect from your attendees. 
+If you want to collect data of your atteendees, click `Turn on Attendee Form`, then select the information you want to collect
 
 ![Attendee Form1](/event-setup/images/create-an-event-attendee-form1.png)
+
+Here you can also set certain criteria as required. 
 
 ![Attendee Form2](/event-setup/images/create-an-event-attendee-form2.png)
 
@@ -45,9 +47,11 @@ Click `Forward` to go the next step.
 
 ## Sponsors
 
-If you wish to include Sponsors, click on `turn on sponsors` and then add their details.
+If you wish to include Sponsors, click on `turn on sponsors`,
 
 ![Sponsors](/event-setup/images/create-an-event-sponsor1.png)
+
+and then add their details.
 
 ![Sponsors](/event-setup/images/create-an-event-sponsor2.png)
 
