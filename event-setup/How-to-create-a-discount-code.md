@@ -17,3 +17,8 @@ You can see the the ticket setting page as following:
 
 # Creating a discount code
 
+![Adding discount information](/event-setup/images/adding-discount-information-1.png)
+
+
+![Choosing ticket type](/event-setup/images/Choosing-ticket-type.png)
+
