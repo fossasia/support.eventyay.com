@@ -28,25 +28,36 @@ social media links of the event.
 Next, you will need to provide tickets information. Add at least one ticket type to proceed. A details explaination on adding tickets 
 can be found here.
 
-Finally, add any additional details, like the type, topic and license, etc... Click `Save and Proceed` to go the next step of the event 
+Finally, add any additional details, like the type, topic and license, etc... Click `Forward` to go the next step of the event
 creation process.
 
 ![Organizer Details](/event-setup/images/how-to-create-an-event-basic-details3.png)
 
 ## Attendee Form 
 
+Next, turn on attendee form and choose the information you want to collect from your attendees. 
+
+![Attendee Form1](/event-setup/images/create-an-event-attendee-form1.png)
+
+![Attendee Form2](/event-setup/images/create-an-event-attendee-form2.png)
+
+Click `Forward` to go the next step.
+
 ## Sponsors
 
 If you wish to include Sponsors, click on `turn on sponsors` and then add their details.
 
-![Sponsors](/event-setup/images/sponsors.PNG)
+![Sponsors](/event-setup/images/create-an-event-sponsor1.png)
 
-Click `Save and Proceed` to go the next step of the event creation process.
+![Sponsors](/event-setup/images/create-an-event-sponsor2.png)
 
-Now, if you wish to include sessions and speaker, click on `turn on sessions and speaker`, fill the required details of your sessions
-and your speakers' details!
+Click `Forward` to go the next step.
 
-![Sessions and Speakers](/event-setup/images/sessions-speakers.PNG)
+## Sessions & Speakers 
 
-Finally click `Save and Proceed`, and you're done!
+Expand your event by adding `Sessions & Speakers`information. Click on `Turn on Sessions and Speaker`to start. Click here to go to a 
+full detailed section on adding `Sessions & Speakers`
 
+![Sessions and Speakers](/event-setup/images/create-an-event-sessions-speakers1.png)
+
+Now you can select `Save draft` or `Publish` your event.
