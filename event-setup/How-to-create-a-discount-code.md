@@ -5,8 +5,8 @@ Log in to your event page, you will see the event setting panel in the centre
 
 ![Overview page](/event-setup/images/How-to-create-discount-overview-page.png)
 
-# Adding a discount code
-Select the Tickets tab next to the Overview tab
+# Discount code menu bar
+Select th e Tickets tab next to the Overview tab
 
 You can see the the ticket setting page as following:
 
