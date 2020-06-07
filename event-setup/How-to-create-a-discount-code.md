@@ -9,3 +9,4 @@ Select the Tickets tab next to the Overview tab
 
 You can see the the ticket setting page as followning
 
+![Ticket setting page](/event-setup/images/How-to-create-discount-code-ticket-setting-page.png)
