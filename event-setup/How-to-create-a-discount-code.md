@@ -1,12 +1,12 @@
     
-# How to creat a discount code
+# How to create a discount code
 
 Log in to your event page, you will see the event setting panel in the centre
 
 ![Overview page](/event-setup/images/How-to-create-discount-overview-page.png)
 
 # Discount code menu bar
-Select th e Tickets tab next to the Overview tab
+Select the Tickets tab next to the Overview tab
 
 You can see the the ticket setting page as following:
 
@@ -17,8 +17,17 @@ You can see the the ticket setting page as following:
 
 # Creating a discount code
 
+Choose your discount code
+
+Next, choose the amount of discount (or the percentage of discount)
+
 ![Adding discount information](/event-setup/images/adding-discount-information-1.png)
 
+Then, choose your ticket type
 
 ![Choosing ticket type](/event-setup/images/Choosing-ticket-type.png)
+
+Finally, you can copy and save the discount link (if needed)
+
+
 
