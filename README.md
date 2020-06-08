@@ -14,7 +14,7 @@
 *   [How can I use QR Code eTickets?](/event-setup/How-can-I-use-QR-Code-eTickets)
 *   [How to add Organizer’s Information](/event-setup/add-organizer-information)
 *   [Registration Confirmation Email](/event-setup/Registration-Confirmation-Email)
-*   [How do I sell tickets online with eventyay?](/event-setup/How-do-I-sell-tickets-online-with-eventyay)
+*   [How do I sell tickets online with eventyay?](/event-setup/how-to-sell-tickets-on-eventyay.md)
 *   [The different types of fields for registration form](/event-setup/The-different-types-of-fields-for-registration-form)
 *   [How to embed videos into event details](/event-setup/how-to-embed-videos-into-event-details)
 *   [How do I allow multi-user access to manage the event?](/event-setup/multi-user-event-management)
