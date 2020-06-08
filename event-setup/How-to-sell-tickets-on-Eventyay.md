@@ -16,6 +16,8 @@ Next, click on the `Options` button to control other settings of your ticket.
 
 Here you can add a description to your ticket, set its the `start` and `end` time, and control whether you want to pubish or hide this on the public events page. 
 
+## Adding a Paid Ticket type 
+
 select the paid ticket option(considering that you are 'selling' your tickets).
 ![Ticketing_Paid_option](/event-setup/images/ticketing-paid.png)
 2. Then you'll have to fill in your ticket details including Name, Price and Quantity.
