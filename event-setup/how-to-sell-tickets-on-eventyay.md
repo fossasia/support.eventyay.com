@@ -1,6 +1,6 @@
 # How to sell tickets on Eventyay
 
-In the article [How can I create an event] (https://github.com/fossasia/support.eventyay.com/blob/master/event-setup/How-can-I-create-an-event.md), we have learned that we need to add at least one ticket type to publish the event on eventyay.com. 
+In the article [How can I create an event] (/event-setup/How-can-I-create-an-event.md), we have learned that we need to add at least one ticket type to publish the event on eventyay.com. 
 In this article, we go into deatils how we can add and sell tickets. 
 
 ![Adding Tickets](https://github.com/fossasia/support.eventyay.com/blob/master/event-setup/images/how-to-sell-ticket1.png)
