@@ -1,6 +1,6 @@
 # How to sell tickets on Eventyay
 
-In the article [How can I create an event] (/event-setup/How-can-I-create-an-event.md), we have learned that we need to add at least one ticket type to publish the event on eventyay.com. 
+In the article [How can I create an event](/event-setup/How-can-I-create-an-event.md), we have learned that we need to add at least one ticket type to publish the event on eventyay.com. 
 In this article, we go into deatils how we can add and sell tickets. 
 
 ![Adding Tickets](https://github.com/fossasia/support.eventyay.com/blob/master/event-setup/images/how-to-sell-ticket1.png)
@@ -8,11 +8,11 @@ In this article, we go into deatils how we can add and sell tickets.
 ## Adding a Free Ticket type 
 First, give your ticket a name and define its quantity. 
 
-![Free Ticket](https://github.com/fossasia/support.eventyay.com/blob/master/event-setup/images/how-to-sell-ticket2.png)
+![Free Ticket](/event-setup/images//images/how-to-sell-ticket2.png)
 
 Next, click on the `Options` button to control other settings of your ticket. 
 
-![Free Ticket](https://github.com/fossasia/support.eventyay.com/blob/master/event-setup/images/how-to-sell-ticket3.png)
+![Free Ticket](/event-setup/images//images/how-to-sell-ticket3.png)
 
 Here you can add a description to your ticket, set its the `start` and `end` time, and control whether you want to pubish or hide this on the public events page. 
 
