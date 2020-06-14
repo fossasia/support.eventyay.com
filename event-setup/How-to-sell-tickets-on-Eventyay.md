@@ -26,9 +26,9 @@ Next, click on the `Options` button to control other settings of your paid ticke
 ![Paid Ticket](/event-setup/images/how-to-sell-ticket5.png)
 
 Finally, select your payment methods either `Paypal`, `Stripe`,`Offline` payment or all. Additionally, you can add tax and billing
-information to commmplete setting up this paid ticket.  
+information to complete setting up this paid ticket.  
 
-![Paid Ticket](/event-setup/images/how-to-sell-ticket6.png)
+![Paid Ticket](/event-setup/images/how-to-sell-ticket6_edited.png)
 
 ## Adding a Donation type 
 Similar to the paid ticket type, we need to give it a name, define its price (minimum & maximum), quantity, and set up payment details
@@ -38,4 +38,4 @@ Similar to the paid ticket type, we need to give it a name, define its price (mi
 
 Next, select your payment methods, add tax and billing information to commmplete setting up donation ticket. 
 
-![Donation Ticket](/event-setup/images/how-to-sell-ticket6.png)
+![Donation Ticket](/event-setup/images/how-to-sell-ticket6_edited.png)
