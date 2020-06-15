@@ -3,3 +3,7 @@
 
 
 ![Overview page](/event-setup/images/How-to-submit-your-talk-main-page.png)
+
+
+![Overview page](/event-setup/images/Speaker-details-1.png)
+
