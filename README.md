@@ -106,3 +106,8 @@
 *   [An attendee can’t make it. Can I do partial refund?](/cancellations/An-attendee-cant-make-it-Can-I-do-partial-refund)
 *   [How to cancel my event?](/cancellations/How-to-cancel-my-event)
 *   [Does eventyay charge for attendees that refund?](/cancellations/Does-eventyay-charge-for-attendees-that-refund)
+
+
+### Speakers and Attendees
+
+*   [How do I submit a talk?](/Speakers/How-do-I-submit-a-talk)
