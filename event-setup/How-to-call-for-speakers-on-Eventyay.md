@@ -20,3 +20,13 @@ Provide details such as room names and their dedicated floors in the building (e
 Add the sessions types that speakers/presenters can choose from. Typically, there are `Standard Talk`, `Lightning Talk` and `Workshop`. You can also add more session types of your preferences. 
 
 ![Call for Speakers](/event-setup/images/how-to-call-for-speakers3.png)
+
+## Call for Speakers 
+Next, you can start to add  description for the `Call for Speakers` into the **Annoucement** box, set its start/end time and select the
+timezone. Here, you can also decide whether you want to display the `Call for Speakers` publicly or make privately. If you set the `Call
+for Speakers` as private, proposals can only be submitted via the private link. 
+
+![Call for Speakers](/event-setup/images/how-to-call-for-speakers4.png)
+
+## Customize registration form
+
