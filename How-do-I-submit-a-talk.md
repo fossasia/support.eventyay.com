@@ -16,3 +16,7 @@ If you have not had any submission for the chosen event, you need to fill in you
 After you finished, click the "Save" button. You then will be taken back to the main page as shown below, click submit proposal, then click "Add new session"
 
 ![Overview page](/event-setup/images/Submit-proposal-overview.png)
+
+![Overview page](/event-setup/images/Add-new-session-button.png)
+
+
