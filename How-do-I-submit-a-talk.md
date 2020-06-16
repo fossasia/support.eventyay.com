@@ -3,7 +3,7 @@
 
 ## Overview menu
 
-First, choose the event you want to submit a talk for, then select "Call for speakers"
+First, choose the event you want to submit a talk for, then select "Call for speakers", then choose "Submit proposal"
 
 
 ![Overview page](/event-setup/images/How-to-submit-your-talk-main-page.png)
