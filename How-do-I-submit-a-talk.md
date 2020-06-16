@@ -19,4 +19,12 @@ After you finished, click the "Save" button. You then will be taken back to the 
 
 ![Overview page](/event-setup/images/Add-new-session-button.png)
 
+## Filling your submission
 
+Make sure to fill out the mandatory information * 
+
+![Overview page](/event-setup/images/Session-details-1.png)
+
+For slides, you can either copy an URL or attach a file by clicking "select a file"
+
+![Overview page](/event-setup/images/Session-details-2.png)
