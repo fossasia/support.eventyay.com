@@ -111,6 +111,6 @@
 
 ### Speakers and Attendees
 
-*   [How do I submit a talk?](/Speakers/How-do-I-submit-a-talk.md)
+*   [How do I submit a talk?](/How-do-I-submit-a-talk.md)
 
 
