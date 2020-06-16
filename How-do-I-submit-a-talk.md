@@ -28,3 +28,9 @@ Make sure to fill out the mandatory information *
 For slides, you can either copy an URL or attach a file by clicking "select a file", choose your session type, then click submit
 
 ![Overview page](/event-setup/images/Session-details-2.png)
+
+All done!!! You now should have this page appear on your screen
+
+![Overview page](/event-setup/images/Confirmed-submission-page.png)
+
+
