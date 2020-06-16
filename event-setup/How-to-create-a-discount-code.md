@@ -17,7 +17,7 @@ You can see the the ticket setting page as following:
 
 # Creating a discount code
 
-Choose your discount code
+Choose your discount code, your discount code should be upper cases only (Ex: FOSSASIA)
 
 Next, choose the amount of discount (or the percentage of discount)
 
@@ -27,7 +27,7 @@ Then, choose your ticket type
 
 ![Choosing ticket type](/event-setup/images/Choosing-ticket-type.png)
 
-Finally, you can copy and save the discount link (if needed)
+Finally, you can copy and save the discount link (if needed), discount code can be distributed by the discount code itself or just by discount lin. 
 
 
 
