@@ -17,7 +17,7 @@ You can see the the ticket setting page as following:
 
 # Creating a discount code
 
-Choose your discount code, your discount code should be upper cases only (Ex: FOSSASIA)
+Choose your discount code, your discount code should be uppercases only (Ex: FOSSASIA)
 
 Next, choose the amount of discount (or the percentage of discount)
 
