@@ -4,7 +4,9 @@
 
 ### Event Setup
 
-*   [How can I create an event?](/event-setup/How-can-I-create-an-event.md)
+*   [How can I create an event on Eventyay?](/event-setup/How-can-I-create-an-event.md)
+*   [How to sell tickets on Eventyay?](/event-setup/How-to-sell-tickets-on-Eventyay.md)
+*   [How to call for speakers on Eventyay?](/event-setup/How-to-call-for-speakers-on-Eventyay.md)
 *   [Select payment and currency](/event-setup/select-payment-and-currency)
 *   [Create tickets](/event-setup/Create-tickets)
 *   [Customize registration form](/event-setup/Customize-registration-form)
@@ -14,7 +16,6 @@
 *   [How can I use QR Code eTickets?](/event-setup/How-can-I-use-QR-Code-eTickets)
 *   [How to add Organizer’s Information](/event-setup/add-organizer-information)
 *   [Registration Confirmation Email](/event-setup/Registration-Confirmation-Email)
-*   [How to sell tickets on Eventyay?](/event-setup/How-to-sell-tickets-on-Eventyay.md)
 *   [The different types of fields for registration form](/event-setup/The-different-types-of-fields-for-registration-form)
 *   [How to embed videos into event details](/event-setup/how-to-embed-videos-into-event-details)
 *   [How do I allow multi-user access to manage the event?](/event-setup/multi-user-event-management)
