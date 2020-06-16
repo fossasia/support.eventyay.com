@@ -3,6 +3,7 @@
 
 ## Overview menu
 
+First, choose the event you want to submit a talk for, 
 ![Overview page](/event-setup/images/How-to-submit-your-talk-main-page.png)
 
 ## Adding speaker details 
