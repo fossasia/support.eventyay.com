@@ -28,5 +28,10 @@ for Speakers` as private, proposals can only be submitted via the private link.
 
 ![Call for Speakers](/event-setup/images/how-to-call-for-speakers4.png)
 
-## Customize registration form
+## Customize Registration Form
+The last step to complete before publishing the `Call for Speakers` is to customize the registration form. There are two columns of
+information that you can customize, which are: **Collect Speaker Details** and **Collect Session Details** respectively. 
 
+![Call for Speakers](/event-setup/images/how-to-call-for-speakers5.png)
+
+![Call for Speakers](/event-setup/images/how-to-call-for-speakers6.png)
