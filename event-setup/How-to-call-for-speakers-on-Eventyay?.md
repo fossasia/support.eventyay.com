@@ -1,4 +1,4 @@
-# How to Call for Speakers on Eventyay
+# How to call for speakers on Eventyay?
 In the article [How can I create an event](/event-setup/How-can-I-create-an-event.md), we have gone through the four parts we need to include in each event, which are: **Basic Details**, **Attendee Form**, **Sponsors**, and **Sessions & Speakers**. In this article, we will go into details how to add and publish the `Call for Speakers` under **Sessions & Speakers** section.
 
 First, select the event you want to edit under your events management dashboard. Turn on its Sessions & Speakers to set up the `Call for Speakers`.  
