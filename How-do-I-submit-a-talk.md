@@ -39,13 +39,13 @@ After you finished, click the "Save" button. You then will be taken back to the 
 Make sure to fill out the mandatory information * 
 
 
-![Overview page](/event-setup/images/Session-details-1.png)
+![Overview page](/event-setup/images/Session-details-1-1.png)
 
 
 For slides, you can either copy an URL or attach a file by clicking "select a file", choose your session type, then click submit
 
 
-![Overview page](/event-setup/images/Session-details-2.png)
+![Overview page](/event-setup/images/Session-details-2-2.png)
 
 
 All done!!! You now should have this page appear on your screen
