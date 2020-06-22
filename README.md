@@ -6,7 +6,7 @@
 
 *   [How can I create an event on Eventyay?](/event-setup/How-can-I-create-an-event.md)
 *   [How to sell tickets on Eventyay?](/event-setup/How-to-sell-tickets-on-Eventyay.md)
-*   [How to call for speakers on Eventyay?](/event-setup/How-to-call-for-speakers-on-Eventyay.md)
+*   [How to add the call for speakers on Eventyay?](/event-setup/How-to-add-the--call-for-speakers-on-Eventyay.md)
 *   [Select payment and currency](/event-setup/select-payment-and-currency)
 *   [Create tickets](/event-setup/Create-tickets)
 *   [Customize registration form](/event-setup/Customize-registration-form)
