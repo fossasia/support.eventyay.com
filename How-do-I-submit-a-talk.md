@@ -30,7 +30,7 @@ After you finished, click the "Save" button. You then will be taken back to the 
 ![Overview page](/event-setup/images/Submit-proposal-overview.png)
 
 
-![Overview page](/event-setup/images/Add-new-session-button.png)
+![Overview page](/event-setup/images/Adding-new-session-button.png)
 
 
 ## Filling your submission
