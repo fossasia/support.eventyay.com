@@ -6,7 +6,7 @@
 First, choose the event you want to submit a talk for, then select "Call for speakers", then choose "Submit proposal"
 
 
-![Overview page](/event-setup/images/How-to-submit-your-talk-main-page.png)
+![Overview page](/event-setup/images/Call-for-speakers-overview-page.png)
 
 
 ## Adding speaker details 
@@ -15,10 +15,10 @@ First, choose the event you want to submit a talk for, then select "Call for spe
 If you have not had any submission for the chosen event, you need to fill in your speaker details first as below: 
 
 
-![Overview page](/event-setup/images/Speaker-details-1.png)
+![Overview page](/event-setup/images/Speaker-details-1-1.png)
 
 
-![Overview page](/event-setup/images/Speaker-details-2.png)
+![Overview page](/event-setup/images/Speaker-detail-2-2.png.png)
 
 After you finished, click the "Save" button. You then will be taken back to the main page as shown below, click submit proposal, then click "Add new session"
 
