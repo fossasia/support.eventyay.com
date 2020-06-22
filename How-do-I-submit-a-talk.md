@@ -13,6 +13,9 @@ First, choose the event you want to submit a talk for, then select "Call for spe
 ![Overview page](/event-setup/images/Call-for-speakers-overview-page.png)
 
 
+![Overview page](/event-setup/images/Adding-new-session-button.png)
+
+
 ## Adding speaker details 
 
 
