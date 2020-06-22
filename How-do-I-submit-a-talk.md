@@ -22,7 +22,7 @@ If you have not had any submission for the chosen event, you need to fill in you
 ![Overview page](/event-setup/images/Speaker-details-1-1.png)
 
 
-![Overview page](/event-setup/images/Speaker-detail-2-2.png.png)
+![Overview page](/event-setup/images/Speaker-detail-2-2.png)
 
 After you finished, click the "Save" button. You then will be taken back to the main page as shown below, click submit proposal, then click "Add new session"
 
