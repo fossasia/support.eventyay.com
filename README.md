@@ -1,8 +1,8 @@
 # Support FAQ
 
-## Browse By Topics
+## Support for Organizers 
 
-### Event Setup
+### Event Setup 
 
 *   [How can I create an event on Eventyay?](/event-setup/How-can-I-create-an-event.md)
 *   [How to sell tickets on Eventyay?](/event-setup/How-to-sell-tickets-on-Eventyay.md)
@@ -109,7 +109,7 @@
 *   [Does eventyay charge for attendees that refund?](/cancellations/Does-eventyay-charge-for-attendees-that-refund)
 
 
-### Speakers and Attendees
+## Support for Speakers and Attendees 
 
 *   [How do I submit a talk?](/How-do-I-submit-a-talk.md)
 
