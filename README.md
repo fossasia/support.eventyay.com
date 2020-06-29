@@ -112,5 +112,5 @@
 ## Support for Speakers and Attendees 
 
 *   [How do I submit a talk?](/How-do-I-submit-a-talk.md)
-
-
+*   [Do I need to print my ticket?](/Do-I-need-to-print-my-ticket.md)
+*   [How do I apply my discount code to a ticket?](/How-do-I-apply-my-discount-code-to-a-ticket.md)
