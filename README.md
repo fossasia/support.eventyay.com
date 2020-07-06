@@ -117,6 +117,6 @@
 *   [Do I need to print my ticket?](/Do-I-need-to-print-my-ticket.md)
 *   [How do I apply my discount code to a ticket?](/How-do-I-apply-my-discount-code-to-a-ticket.md)
 
-### [Attendees](/speakers-and-attendees/attendees)
+### Attendees
 *   [How to buy tickets on eventyay?](/speakers-and-attendees/attendees/How-to-buy-a-tickets-on-eventyay.md)
 
