@@ -2,24 +2,14 @@
 
 ## Support for Organizers 
 
-### Event Setup 
+### Basic Event Setup 
 
 *   [How can I create an event on Eventyay?](/event-setup/How-can-I-create-an-event.md)
 *   [How to sell tickets on Eventyay?](/event-setup/How-to-sell-tickets-on-Eventyay.md)
-*   [How to add the call for speakers on Eventyay?](/event-setup/How-to-add-the--call-for-speakers-on-Eventyay.md)
-*   [Select payment and currency](/event-setup/select-payment-and-currency)
-*   [Create tickets](/event-setup/Create-tickets)
-*   [Customize registration form](/event-setup/Customize-registration-form)
-*   [Manage site content (Adding Pages)](/event-setup/Manage-site-content-Adding-Pages)
-*   [Manage site content (Adding logo)](/event-setup/Manage-site-content-Adding-logo)
-*   [How to add a Cover Image](/event-setup/How-to-add-a-Cover-Image)
-*   [How can I use QR Code eTickets?](/event-setup/How-can-I-use-QR-Code-eTickets)
-*   [How to add Organizer’s Information](/event-setup/add-organizer-information)
-*   [Registration Confirmation Email](/event-setup/Registration-Confirmation-Email)
-*   [The different types of fields for registration form](/event-setup/The-different-types-of-fields-for-registration-form)
-*   [How to embed videos into event details](/event-setup/how-to-embed-videos-into-event-details)
-*   [How do I allow multi-user access to manage the event?](/event-setup/multi-user-event-management)
+*   [How to add the call for speakers on Eventyay?](/event-setup/How-to-add-the--call-for-speakers-on-Eventyay.md)*   
 *   [How do I make my event private?](/event-setup/How-do-I-make-my-event-private)
+*   [Customize registration form](/event-setup/Customize-registration-form)
+*   [How do I allow multi-user access to manage the event?](/event-setup/multi-user-event-management)
 *   [Can I set up an event with multiple dates?](/event-setup/Can-I-set-up-an-event-with-multiple-dates.md)
 
 
@@ -61,11 +51,6 @@
 *   [How do I get my event featured on eventyay?](/How-do-I-get-my-event-featured-on-eventyay)
 *   [How to use Google Analytics to improve my event?](/How-to-use-Google-Analytics-to-improve-my-event)
 *   [How to use Ads Tracking to track my ads campaign performance](/How-to-use-Ads-Tracking-to-track-my-ads-campaign-performance)
-
-
-### Closing Event Registration
-
-*   [How to close event registration](/How-to-close-event-registration)
 
 
 ### Customization & Special Features
