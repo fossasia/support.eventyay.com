@@ -26,3 +26,6 @@ Check your both your inbox and spam folder. The ticket and invoice are in sent i
 1. Download the Eventyay App.
 2. Open the app on your device.
 3. Login to your account 
+
+### Contact the event organizer
+If you still can’t find your tickets, contact the event organizer and provide them your email and the name on your order. They can help you trace out the tickets and resend the confirmation email. 
