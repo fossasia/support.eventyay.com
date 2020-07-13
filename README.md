@@ -99,7 +99,7 @@
 ### Speakers
 
 *   [How do I submit a talk?](/How-do-I-submit-a-talk.md)
-*   [Do I need to print my ticket?](/Do-I-need-to-print-my-ticket.md)
+*   [Do I need to print my ticket?](speakers-and-attendees/speakers/Do-I-need-to-print-my-ticket.md)
 *   [How do I apply my discount code to a ticket?](/event-setup/How-do-I-apply-my-discount-code-to-a-ticket.md)
 
 ### Attendees
