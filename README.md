@@ -104,6 +104,11 @@
 
 ### Attendees
 *   [How to buy tickets on eventyay?](/speakers-and-attendees/attendees/How-to-buy-a-tickets-on-eventyay.md)
+*   [How to apply a discount code to your order?](/speakers-and-attendees/attendees/How-to-apply-a-discount-code-to-your-order.md)
 *   [Where are my tickets?](/speakers-and-attendees/attendees/Where-are-my-tickets.md)
+*   [Do I need to print my tickets?](/speakers-and-attendees/attendees/Do-I-need-to-print-my-tickets.md)
+
+
+
 
 
