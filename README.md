@@ -101,6 +101,7 @@
 *   [How do I submit a talk?](/How-do-I-submit-a-talk.md)
 *   [Do I need to print my ticket?](speakers-and-attendees/speakers/Do-I-need-to-print-my-ticket.md)
 *   [How do I apply my discount code to a ticket?](/event-setup/How-do-I-apply-my-discount-code-to-a-ticket.md)
+*   [Where are my tickets?](/speakers-and-attendees/speakers/Where-are-my-tickets.md)
 
 ### Attendees
 *   [How to buy tickets on eventyay?](/speakers-and-attendees/attendees/How-to-buy-a-tickets-on-eventyay.md)
