@@ -14,4 +14,4 @@ Login to your account on eventyay.com
 
 Click 'My Tickets' under the control panel (tap on your profile icon on the top right)
 
-![Find Ticket](/speakers-and-attendees/speakers/Where-are-my-tickets.md)
+![Overview page](/speakers-and-attendees/speakers/where-is-my-ticket-1.png)
