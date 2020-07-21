@@ -10,5 +10,5 @@ Show your tickets in the Eventyay app on your mobile device or take a screenshot
 ## This is how your ticket looks like
 
 
-![Overview page](/speakers-and-attendees/speakers/ticket-sample.png)
+![Overview page](speakers-and-attendees/speakers/Ticket-Sample.png)
 
