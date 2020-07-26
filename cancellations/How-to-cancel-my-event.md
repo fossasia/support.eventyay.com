@@ -23,7 +23,7 @@ There are a few simple steps in order to cancel your event:
 ## 4. Select the event you want to delete, click "Event Dashboard"
 
 
-![deleting](cancellations/image/Deleting-event-3.png)
+![deleting](/cancellations/image/Deleting-event-3.png)
 
 
 ## 5. On the menu bar, "choose Setting"
