@@ -87,7 +87,7 @@
 *   [How do I issue refunds via PayPal?](/cancellations/How-do-I-issue-refunds-via-PayPal)
 *   [Can I do partial cancellation?](/cancellations/Can-I-do-partial-cancellation)
 *   [An attendee can’t make it. Can I do partial refund?](/cancellations/An-attendee-cant-make-it-Can-I-do-partial-refund)
-*   [How to cancel my event?](/cancellations/How-to-cancel-my-event)
+*   [How to cancel my event?](/cancellations/How-to-cancel-my-event.md)
 *   [Does eventyay charge for attendees that refund?](/cancellations/Does-eventyay-charge-for-attendees-that-refund)
 
 
