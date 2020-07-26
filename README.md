@@ -6,10 +6,7 @@
 
 *   [How can I create an event on Eventyay?](/event-setup/How-can-I-create-an-event.md)
 *   [How to sell tickets on Eventyay?](/event-setup/How-to-sell-tickets-on-Eventyay.md)
-*   [How to add the call for speakers on Eventyay?](/event-setup/How-to-add-the--call-for-speakers-on-Eventyay.md)*   
-*   [How do I make my event private?](/event-setup/How-do-I-make-my-event-private)
-*   [Customize registration form](/event-setup/Customize-registration-form)
-*   [How do I allow multi-user access to manage the event?](/event-setup/multi-user-event-management)
+*   [How to add the call for speakers on Eventyay?](/event-setup/How-to-add-the--call-for-speakers-on-Eventyay.md)
 *   [Can I set up an event with multiple dates?](/event-setup/Can-I-set-up-an-event-with-multiple-dates.md)
 
 
