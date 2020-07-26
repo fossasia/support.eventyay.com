@@ -7,6 +7,9 @@ There are a few simple steps in order to cancel your event:
 ## 1. Log in your user name and password
 
 
+![Overview page](/cancellations/image/Deleting-event-1.png)
+
+
 
 ## 2. On the upper right hand corner, select "manage event"
 
