@@ -1,4 +1,10 @@
-To apply a discount code to your order, find the event you'd like to register for and apply the discount code as instructed below. If the promotional code you entered was applied successfully, you'll see a ticket at a discounted price. 
+# How to apply a discount code for my order?
+
+
+## To apply a discount code to your order, take these simple steps:  
+
+
+Find the event you'd like to register for and apply the discount code as instructed below. If the promotional code you entered was applied successfully, you'll see a ticket at a discounted price. 
 
 Alternatively, you can use the discount link shared by the event organizer to access the event page with existing discounted tickets. Then simply select the ticket type and number of ticket to proceed. 
 
