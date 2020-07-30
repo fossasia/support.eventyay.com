@@ -15,7 +15,7 @@
 *   [How to view report on sales and registered attendees?](/How-to-view-report-on-sales-and-registered-attendees)
 *   [Can I have customized invoices and receipts for my event?](/Can-I-have-customized-invoices-and-receipts-for-my-event)
 *   [How to confirm pending orders](/How-to-confirm-pending-orders)
-*   [Export/Download attendees list to Excel or Google Drive](/ExportDownload-attendees-list-to-Excel-or-Google-Drive.md)
+*   [Export/Download attendees list to Excel or Google Drive](/event-setup/ExportDownload-attendees-list-to-Excel-or-Google-Drive.md)
 *   [How to cancel an order?](/How-to-cancel-an-order)
 *   [How to receive a copy of the confirmation emails?](/How-to-receive-a-copy-of-the-confirmation-emails)
 *   [Can I customize the registration confirmation email?](/customize-the-registration-confirmation-email)
