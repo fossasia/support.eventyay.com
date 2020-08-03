@@ -75,7 +75,7 @@
 *   [Can I issue invoices for my ticket sales?](/Can-I-issue-invoices-for-my-ticket-sales)
 *   [Can I collect Tax in my ticket sales?](/Can-I-collect-Tax-in-my-ticket-sales)
 *   [Currencies supported](/Currencies-supported)
-*   [How to create discount / promotional codes?](/How-to-create-discount-promotional-codes)
+*   [How to create discount / promotional codes?](/How-to-create-discount-promotional-codes.md)
 *   [Promote ticket sales via Facebook](/Promote-ticket-sales-via-Facebook)
 *   [Why are PayPal transactions getting failed?](/Why-are-PayPal-transactions-getting-failed)
 
