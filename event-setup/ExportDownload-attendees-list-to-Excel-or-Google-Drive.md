@@ -3,21 +3,42 @@
 
 ## Exporting or downloading attendees list can be done by ... simple steps: 
 
+
 ### 1. Log in
 
 
-### 2. Select event you want to export attendee list
+#### Log in using your Eventyay username and password
 
 
-### 3. Select event dashboard
+![Overview page](/event-setup/images/How-do-I-create-discount-codes-1.png)
 
 
-### 4. On the menu bar, choose "tickets"
+### 2. On the top right hand corner, click your username, choose "manage events"
 
 
-### 5. Then, select "attendees" on the left hand tab
+![Overview page](/event-setup/images/Export-attendee-list-1.png)
 
 
-### 6. Click "export as", you can either export to PDF or CSV
+
+### 3. Select event you want to export attendee list
+
+
+![Overview page](/event-setup/images/Export-attendee-list-2.png)
+
+
+### 4. Select event dashboard
+
+
+![Overview page](/event-setup/images/Export-attendee-list-3.png)
+
+
+### 5. On the menu bar, choose "tickets"
+
+
+
+### 6. Then, select "attendees" on the left hand tab
+
+
+### 7. Click "export as", you can either export to PDF or CSV
 
 
