@@ -1,7 +1,7 @@
 # How to export / download attendees list to Excel or Google Drive
 
 
-## Exporting or downloading attendees list can be done by ... simple steps: 
+## Exporting or downloading attendees list can be done by 7 simple steps: 
 
 
 ### 1. Log in
@@ -29,11 +29,10 @@
 ### 4. Select event dashboard
 
 
-![Overview page](/event-setup/images/Export-attendee-list-3.png)
-
-
 ### 5. On the menu bar, choose "tickets"
 
+
+![Overview page](/event-setup/images/Export-attendee-list-3.png)
 
 
 ### 6. Then, select "attendees" on the left hand tab
