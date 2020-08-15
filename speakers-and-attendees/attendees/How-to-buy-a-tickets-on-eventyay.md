@@ -17,4 +17,4 @@ If not, you will be re-directed to the check-out page. (You can verify your new 
 ### 4. When you are at check-out page, complete the registration form within 15 minutes.
 ![Buying Ticket](/speakers-and-attendees/images/how-to-buy-ticket4.png)
 
-### 5. Check your email for the tickets and invoice or view tickets in your Eventyay account (web/mobile app). 
+### 5. Check your email for the link to your tickets and invoice or view tickets under your Eventyay account (web/mobile app). 
