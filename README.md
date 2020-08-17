@@ -70,7 +70,7 @@
 *   [How do I accept on-site / accept payments at the door for ticket sales?](/How-do-I-accept-on-site-accept-payments-at-the-door-for-ticket-sales)
 *   [How do I issue refunds via PayPal?](/How-do-I-issue-refunds-via-PayPal)
 *   [How do I sign up for a PayPal account?](/How-do-I-sign-up-for-a-PayPal-account)
-*   [How do I sign up for a Stripe account?](/How-do-I-sign-up-for-a-stripe-account)
+*   [How do I sign up for a Stripe account?](/How-do-I-sign-up-for-a-stripe-account.md)
 *   [Can I sell tickets or allow registration on my own website using embeddable widget?](/Can-I-sell-tickets-or-allow-registration-on-my-own-website-using-embeddable-widget)
 *   [Can I issue invoices for my ticket sales?](/Can-I-issue-invoices-for-my-ticket-sales)
 *   [Can I collect Tax in my ticket sales?](/Can-I-collect-Tax-in-my-ticket-sales)
