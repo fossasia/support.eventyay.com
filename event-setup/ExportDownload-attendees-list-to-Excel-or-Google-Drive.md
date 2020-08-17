@@ -29,6 +29,9 @@
 ### 4. Select event dashboard
 
 
+![Overview page](/event-setup/images/Export-attendee-list-6.png)
+
+
 ### 5. On the menu bar, choose "tickets"
 
 
@@ -38,6 +41,10 @@
 ### 6. Then, select "attendees" on the left hand tab
 
 
+![Overview page](/event-setup/images/Export-attendee-list-5.png)
+
+
 ### 7. Click "export as", you can either export to PDF or CSV
 
 
+![Overview page](/event-setup/images/Export-attendee-list-4.png)
