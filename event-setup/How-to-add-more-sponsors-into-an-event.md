@@ -15,7 +15,7 @@
 ### 2. Select event dashboard 
 
 
-![Adding sponsors](/event-setup/images/How-do-I-create-discount-codes-1.png)
+![Adding sponsors](/event-setup/images/Event-dashboard.png)
 
 
 ### 3. Choose the event you want to add sponsors for
