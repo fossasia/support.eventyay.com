@@ -33,3 +33,4 @@
 ### 5. Choose "add sponsors" 
 
 
+![Adding sponsors](/event-setup/images/Adding-sponsors-1.png)
