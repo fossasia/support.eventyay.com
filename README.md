@@ -9,6 +9,7 @@
 *   [How to add the call for speakers on Eventyay?](/event-setup/How-to-add-the-call-for-speakers-on-Eventyay.md)
 *   [How to add more organizers into an event?](/event-setup/How-to-add-more-organizers-into-an-event.md)
 *   [How to add sponsors into an event?](/event-setup/How-to-add-more-sponsors-into-an-event.md) 
+*   [How to accept, confirm or reject a talk?](/event-setup/How-to-accept-confirm-reject-speakers.md)
 
 
 ### Managing Orders & Attendees
