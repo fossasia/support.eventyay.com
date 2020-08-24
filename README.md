@@ -10,7 +10,7 @@
 *   [How to add more organizers into an event?](/event-setup/How-to-add-more-organizers-into-an-event.md)
 *   [How to add sponsors into an event?](/event-setup/How-to-add-more-sponsors-into-an-event.md) 
 *   [How to accept, confirm or reject a talk?](/event-setup/How-to-accept-confirm-reject-speakers.md)
-*   [How to schedule speakers sessions](/event-setup/How to schedule speakers sessions.md)
+*   [How to schedule speakers sessions](/event-setup/How-to-schedule-speakers-sessions.md)
 
 
 
