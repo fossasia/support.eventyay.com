@@ -4,23 +4,23 @@ As of now, you can have multiple dates for an event if and only if the dates are
 
 If you're new to the site, you should register [here](https://eventyay.com/register/)…
 
-![register](/event-setup/images/register.png)
+![register](/images/register.png)
 
 or log in [here](https://eventyay.com/login/).
 
-![login](/event-setup/images/login.PNG)
+![login](/images/login.PNG)
 
 Visit eventyay's main page. You'll find a 'Create Event' button:
 
-![Create Event button](/event-setup/images/create-event-button.PNG)
+![Create Event button](/images/create-event-button.PNG)
 
 Please click the 'CREATE EVENT' button (with light text of a blue colour) at the top-right corner of the page to view the 'Create Event' form.
 
-![Create Event Form](/event-setup/images/create-event.PNG)
+![Create Event Form](/images/create-event.PNG)
 
 You can only set up an event with multiple dates if those dates all fall within one range only (with a specified start and end) and follow one another without interruption. If your event is as such, though, adjust the dates, times and time zone as needed. Do so by clicking inside the relevant input fields.
 
-![Create Event Form 2](/event-setup/images/create-event-2.PNG)
+![Create Event Form 2](/images/create-event-2.PNG)
 
 You must fill in the other event details: name, location (make sure you enter that right, so that it appears live!), description (be as detailed as possible!), image and logo.
 
