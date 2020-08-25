@@ -111,6 +111,11 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 * [Where are my tickets?](/attendees/Where-are-my-tickets.md)
 * [Do I need to print my tickets for in person events?](/attendees/Do-I-need-to-print-my-tickets-for-in-person-events.md)
 
+### Refunds
+
+* [Where to find the refund policy of an event?](/attendees/Where-to-find-the-refund-policy-of-an-event.md)
+* [How to get a refund if I need to cancel my ticket to the event?](/attendees/How-to-get-a-refund-if-I-need-to-cancel-my-ticket-to-the-event.md)
+* [How to get a refund if the organizer cancels the event?](/attendees/How-to-get-a-refund-if-the-organizer-cancels-the-event.md)
 
 ## 3. Support for Speakers 
 
@@ -118,6 +123,8 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 
 * [How do I submit a session?](/speakers/How-do-I-submit-a-session.md)
 * [Where can I find my session submissions?](/speakers/Where-can-I-find-my-session-submissions.md)
+* [How do I know if my session was accepted or rejected?](/speakers/How-do-I-know-if-my-session-was-accepted-or-rejected.md)
+* [I am no longer able to participate as a speaker at an event, how can I withdraw my submission?](/speakers/I-am-no-longer-able-to-participate-as-a-speaker-at-an-event-how-can-I-withdraw-my-submission.md)
 
 
 ## 4. Support for Contributors and Developers
