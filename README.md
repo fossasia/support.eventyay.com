@@ -2,7 +2,7 @@
 
 On [support.eventyay.com](https://support.eventyay.com) you find support information and answers to frequently asked questions for the [eventyay](https://eventyay.com) platform.
 
-## Support for Organizers 
+## 1. Support for Organizers 
 
 ### Setting up Your Event 
 
@@ -102,7 +102,7 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 * [How can I create a static website using the API link of my event?](/export-site-generator/How-can-I-create-a-static-website-using-the-API-link-of-my-event.md)
 
 
-## Support for Attendees 
+## 2. Support for Attendees 
 
 ### Ticketing
 
@@ -112,7 +112,7 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 * [Do I need to print my tickets for in person events?](/attendees/Do-I-need-to-print-my-tickets-for-in-person-events.md)
 
 
-## Support for Speakers 
+## 3. Support for Speakers 
 
 ### Session Submissions
 
@@ -120,7 +120,7 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 * [Where can I find my session submissions?](/speakers/Where-can-I-find-my-session-submissions.md)
 
 
-## Support for Contributors and Developers
+## 4. Support for Contributors and Developers
 
 ### Development, Roadmap, Bugs, Feature Requests
 
