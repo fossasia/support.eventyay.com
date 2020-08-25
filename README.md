@@ -1,6 +1,6 @@
 # Event Support FAQ
 
-On [support.eventyay.com](https://support.eventyay.com) you find the support information and frequently asked questions for the [eventyay](https://eventyay.com) platform.
+On [support.eventyay.com](https://support.eventyay.com) you find support information and answers to frequently asked questions for the [eventyay](https://eventyay.com) platform.
 
 ## Support for Organizers 
 
