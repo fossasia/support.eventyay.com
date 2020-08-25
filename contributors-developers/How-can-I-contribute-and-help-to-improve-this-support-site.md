@@ -1,6 +1,6 @@
 # How can I contribute and help to improve this support site
 
-To help building and improving the eventyay support website you can go to https://github.com/fossasia/support.eventyay.com. There is an tracker where you can file issues. You can also check out the markdown code that this website is using and edit or fix articles by making a pull request.
+To help building and improving the eventyay support website you can go to https://github.com/fossasia/support.eventyay.com. There is a tracker where you can file issues. You can also check out the markdown code that this website is using and edit or fix articles by making a pull request.
 
 ## What is the naming convention of articles and images
 
