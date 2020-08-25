@@ -19,7 +19,7 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 ### Pricing
 
 * [How much does it cost to sell tickets on eventyay?](/pricing/How-much-does-it-cost-to-sell-tickets.md)
-* [How much does it cost to use eventyay for a Call for Papers or Call for Speakers](/pricing/How-much-does-it-cost-to-use-eventyay-for-a-Call-for-Papers-or-Call-for-Speakers.md)
+* [How much does it cost to use eventyay for a Call for Papers or Call for Speakers?](/pricing/How-much-does-it-cost-to-use-eventyay-for-a-Call-for-Papers-or-Call-for-Speakers.md)
 * [How and when do organizers pay for using eventyay?](/pricing/How-and-when-do-organizers-pay.md)
 * [What plans are available for event organizers?](/pricing/What-plans-are-available-for-event-organizers.md)
 
@@ -46,7 +46,7 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 
 * [How to create a discount code for tickets?](/promotions-discounts/How-to-create-a-discount-code-for-tickets.md)
 * [How to add an expiry date to a discount code?](/promotions-discounts/How-to-add-an-expiry-date-to-a-discount-code.md)
-* [How do I apply my discount code to a ticket.md](/promotions-discounts/How-do-I-apply-my-discount-code-to-a-ticket.md)
+* [How do I apply my discount code to a ticket?](/promotions-discounts/How-do-I-apply-my-discount-code-to-a-ticket.md)
 
 ### Cancellations & Refunds
 
@@ -79,7 +79,7 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 
 ### Marketing & Analytics
 
-* [How to include images in event details](/marketing-analytics/How-to-include-images-in-event-details.md)
+* [How to include images in event details?](/marketing-analytics/How-to-include-images-in-event-details.md)
 * [How to add a Twitter account feed to your event page?](/marketing-analytics/How-to-add-a-Twitter-account-feed-to-your-event-page.md)
 
 ### Speakers and Sessions Management
