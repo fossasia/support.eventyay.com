@@ -4,7 +4,7 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 
 ## Support for Organizers 
 
-### Setting up Your Event Setup 
+### Setting up Your Event 
 
 * [How can I create an event on eventyay?](/event-setup/How-can-I-create-an-event.md)
 * [How can I create an online event on eventyay?](/event-setup/How-can-I-create-an-online-event-on-eventyay.md)
