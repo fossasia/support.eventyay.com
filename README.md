@@ -94,7 +94,7 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 
 * [How to feature speakers on the event main page?](/schedule-event-pages/How-to-feature-speakers-on-the-event-main-page.md)
 * [How to create an event schedule?](/schedule-event-pages/How-to-create-an-event-schedule.md)
-* [How to schedule speakers sessions?](/schedule-event-pages/How-to-schedule-speakers-sessions.md)
+* [How to schedule speakers and sessions?](/schedule-event-pages/How-to-schedule-speakers-and-sessions.md)
 
 ### Export & Website Generator
 
