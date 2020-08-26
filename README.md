@@ -82,7 +82,7 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 * [How to include images in event details?](/marketing-analytics/How-to-include-images-in-event-details.md)
 * [How to add a Twitter account feed to your event page?](/marketing-analytics/How-to-add-a-Twitter-account-feed-to-your-event-page.md)
 
-### Speakers and Sessions Management
+### Speakers & Sessions Management
 
 * [How to accept, confirm or reject a speaker submission?](/speakers-sessions/How-to-accept-confirm-reject-speaker-submissions.md)
 * [What are the different submission states such as draft, accepted, rejected, confirmed and withdrawn?](/speakers-sessions/What-are-the-different-submission-states-such-as-draft-accepted-rejected-confirmed-and-withdrawn.md)
