@@ -76,6 +76,7 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 
 * [How to add other organizers, moderators and volunteers to an event?](/event-roles/How-to-add-other-organizers-moderators-and-volunteers-to-an-event.md)
 * [How to control the permissions of team members?](/event-roles/How-to-control-the-permissions-of-team-members.md)
+* [How to transfer the ownership of an event?](/event-roles/How-to-transfer-the-ownership-of-an-event.md)
 
 ### Marketing & Analytics
 
@@ -126,8 +127,14 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 * [How do I know if my session was accepted or rejected?](/speakers/How-do-I-know-if-my-session-was-accepted-or-rejected.md)
 * [I am no longer able to participate as a speaker at an event, how can I withdraw my submission?](/speakers/I-am-no-longer-able-to-participate-as-a-speaker-at-an-event-how-can-I-withdraw-my-submission.md)
 
+## 4. Other User Questions
 
-## 4. Support for Contributors and Developers
+### Privacy and Data Security
+
+* [Is the service GDPR compliant?](/privacy-data-security/is-the-service-GDPR-compliant.md)
+* [How can I delete my account?](/privacy-data-security/how-can-I-delete-my-account.md)
+
+## 5. Support for Contributors and Developers
 
 ### Development, Roadmap, Bugs, Feature Requests
 
