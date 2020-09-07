@@ -12,7 +12,7 @@
 
 ![Adding Images](/images/How-to-include-images-in-event-details-2.png)
 
-4. Upload **Event Image** (and **Logo** if needed) and use the provide cropping tool to scale it properly. Click on **Looks good** to save your images.
+4. Upload **Event Image** (and **Logo** if needed) and use the provided cropping tool to scale it properly. Click on **Looks good** to save your images.
 
 ![Adding Images](/images/How-to-include-images-in-event-details-3.png)
 
@@ -20,7 +20,7 @@
 
 ![Adding Images](/images/How-to-include-images-in-event-details-4.png)
 
-6. Now you can go back to the **Overview** page and click on the live event link under **General info** to view your changes. 
+6. Now you can go back to **Overview** page and click on the live event link under **General info** to view your changes. 
 
 ![Adding Images](/images/How-to-include-images-in-event-details-5.png)
 
