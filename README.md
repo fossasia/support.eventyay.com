@@ -22,6 +22,7 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 * [How much does it cost to use eventyay for a Call for Papers or Call for Speakers?](/pricing/How-much-does-it-cost-to-use-eventyay-for-a-Call-for-Papers-or-Call-for-Speakers.md)
 * [How and when do organizers pay for using eventyay?](/pricing/How-and-when-do-organizers-pay.md)
 * [What plans are available for event organizers?](/pricing/What-plans-are-available-for-event-organizers.md)
+* [How to pay eventyay platform fees and subscription invoices?](/pricing/How-to-pay-eventyay-platform-fees-and-subscription-invoices.md)
 
 ### Tickets & Payments
 
@@ -128,6 +129,11 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 * [I am no longer able to participate as a speaker at an event, how can I withdraw my submission?](/speakers/I-am-no-longer-able-to-participate-as-a-speaker-at-an-event-how-can-I-withdraw-my-submission.md)
 
 ## 4. Other User Questions
+
+### Sign up, Login, Account
+
+* [I did not receive a sign up, verification or ticket email, what to do?](/signup-login-account/I-did-not-receive-a-sign-up-verification-or-ticket-email-what-to-do.md)
+
 
 ### Privacy and Data Security
 
