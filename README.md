@@ -1,6 +1,9 @@
 # Event Support FAQ
 
-On [support.eventyay.com](https://support.eventyay.com) you find support information and answers to frequently asked questions for the [eventyay](https://eventyay.com) platform.
+On [support.eventyay.com](https://support.eventyay.com) you find support information and answers to frequently asked questions for the [eventyay](https://eventyay.com) platform. If you would like to get help:
+* via chat you can communicate with developers and the user community using our [Telegram](https://t.me/eventyay) channel
+* on the [GitHub Issue Tracker](https://github.com/fossasia/open-event-frontend/issues) you can submit bugs and feature requests
+* on [Gitter](https://gitter.im/fossasia/open-event) you can talk to developers and maintainers.
 
 ## 1. Support for Organizers 
 
