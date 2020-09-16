@@ -1,18 +1,12 @@
 # How can I create an event on Eventyay?
 
-
 1. Go to [Eventyay.com](https://eventyay.com) and click on **CREATE EVENT** button in the middle of the page or on the top right corner. 
-
 ![Create Event button](/images/create-event-button.PNG)
 
-
 2. Login to your account or register a new one if you haven't got one. 
-
 ![Logging and Registering](/images/login_box_new.png)
 
-
 3. Once you have successfully logged in, click on the the **CREATE BUTTON** again and follow the steps below to complete.
-
 ## Adding Basic Details 
 
 Fill in your event details: name, location, timezone (Make sure you enter that right, so that it appears live!), 
