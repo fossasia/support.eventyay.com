@@ -67,6 +67,7 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 ### Managing Orders & Attendees
 
 * [How to view reports on sales and registered attendees?](/orders-attendees/How-to-view-reports-on-sales-and-registered-attendees.md)
+* [How to contact attendees of an event?](/orders-attendees/How-to-contact-attendees-of-an-event.md)
 * [How to export and download the attendees list of my event?](/orders-attendees/How-to-export-and-download-the-attendees-list-of-my-event.md)
 * [How to export and download the orders list of my event?](/orders-attendees/How-to-export-and-download-the-orders-list-of-my-event.md)
 * [How to resend confirmation emails for ticket orders?](/orders-attendees/How-to-resend-confirmation-emails-for-ticket-orders.md)
@@ -122,6 +123,10 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 * [Where to find the refund policy of an event?](/attendees/Where-to-find-the-refund-policy-of-an-event.md)
 * [How to get a refund if I need to cancel my ticket to the event?](/attendees/How-to-get-a-refund-if-I-need-to-cancel-my-ticket-to-the-event.md)
 * [How to get a refund if the organizer cancels the event?](/attendees/How-to-get-a-refund-if-the-organizer-cancels-the-event.md)
+
+### Other Questions and Contact
+
+* [How to contact organizers of an event?](/questions-contact/How-to-contact-organizers-of-an-event.md)
 
 ## 3. Support for Speakers 
 
