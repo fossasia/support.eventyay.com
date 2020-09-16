@@ -155,8 +155,8 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 
 * [Who develops eventyay?](/contributors-developers/Who-develops-eventyay.md)
 * [What is the roadmap of the platform?](/contributors-developers/What-is-the-roadmap-of-the-platform.md)
-* [Where can I submit a bug report or feature request?](/developers/Where-can-I-submit-a-bug-report-or-feature-request.md)
-* [How can I setup the system myself?](/contributors-developers/How-can-I-setup-the-system-myself.md)
+* [Where can I submit a bug report or feature request?](/contributors-developers/Where-can-I-submit-a-bug-report-or-feature-request.md)
+* [How can I set up the system myself?](/contributors-developers/How-can-I-set-up-the-system-myself.md)
 * [How can I contact the developers?](/contributors-developers/How-can-I-contact-the-developers.md)
 * [How can I contribute and help to improve this support site?](/contributors-developers/How-can-I-contribute-and-help-to-improve-this-support-site.md)
 

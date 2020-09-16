@@ -1,9 +1,5 @@
-Hello, 
+# How can I contact the developers?
 
-this article is not yet available. Our team is working hard to answer all questions. We will be adding this article soon. 
+There are different ways to contact maintainers and developers of the [Open Event software suite](https://github.com/fossasia?q=open-event) that powers [eventyay.com](https://eventyay.com). 
 
-Please check back again in a few days.
-
-If you are interested in helping to create the documentation for the project, please join us on Github [here](https://github.com/fossasia/support.eventyay.com).
-
-Thank you!
+Usually developers are available on our [Gitter.im chat](https://gitter.im/fossasia/open-event) or [Telegram channel here](https://t.me/eventyay). Please consider that contributors live in different time zones and will respond to inquiries depending on their availability.

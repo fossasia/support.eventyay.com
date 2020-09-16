@@ -1,9 +1,5 @@
-Hello, 
+# What is the roadmap of the platform?
 
-this article is not yet available. Our team is working hard to answer all questions. We will be adding this article soon. 
+Our goal is to offer the world's best event platform using Free and Open Source Software (FOSS). Our roadmap to achieve this depends on a number of factors. These include user feedback and available resources.
 
-Please check back again in a few days.
-
-If you are interested in helping to create the documentation for the project, please join us on Github [here](https://github.com/fossasia/support.eventyay.com).
-
-Thank you!
+Due to the current situation where many events are held online we focus on developing online event features such as integration with video tools and streaming platforms.

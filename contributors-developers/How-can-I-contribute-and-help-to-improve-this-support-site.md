@@ -1,12 +1,20 @@
 # How can I contribute and help to improve this support site
 
-To help building and improving the eventyay support website you can go to https://github.com/fossasia/support.eventyay.com. There is a tracker where you can file issues. You can also check out the markdown code that this website is using and edit or fix articles by making a pull request.
+We always welcome developers and contributors who would like to help improve the documentation. 
 
-## What is the naming convention of articles and images
+We are hosting the source files for this documentation site on GitHub. To help building and improving the eventyay support website please visit the [code repository](https://github.com/fossasia/support.eventyay.com) of the site and help to solve issues that are listed in the tracker. 
 
-Articles and images should be named accoding to the main question they are dealing with. 
+You can check out the markdown code that this website is using and edit or fix articles by making a pull request.
 
-For example an image that would be added to this very page here should be named "How-can-I-contribute-and-help-to-improve-this-support-site-1.png". If there is a second image on the same page it should be named "How-can-I-contribute-and-help-to-improve-this-support-site-2.png" and so on.
+Below other questions that are relevant if you want to contribute to the documentation project.
+
+
+## What is the naming convention of articles and images?
+
+Articles and images should be named according to the main question they are dealing with.
+
+For example an image that would be added to this very page here should be named “How-can-I-contribute-and-help-to-improve-this-support-site-1.png”. If there is a second image on the same page it should be named “How-can-I-contribute-and-help-to-improve-this-support-site-2.png” and so on.
+
 
 ## What is the location where articles and images should be added
 
