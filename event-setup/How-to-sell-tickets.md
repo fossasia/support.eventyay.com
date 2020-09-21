@@ -1,4 +1,4 @@
-# How to sell tickets
+# How to sell tickets on eventyay?
 
 In the article [How can I create an event](/event-setup/How-can-I-create-an-event.md), we have learned that we need to add at least one ticket type to publish the event on [eventyay.com](eventyay.com). 
 In this article, we'll go into details how we can add and sell tickets. 
