@@ -1,28 +1,22 @@
 # Can I set up an event with multiple dates?
 
-As of now, you can have multiple dates for an event if and only if the dates are all consecutive days. Please read on to see why.
+1. Login to your account on [eventyay.com](https://eventyay.com).
 
-If you're new to the site, you should register [here](https://eventyay.com/register/)…
+![Multiple Dates](/images/Can-I-set-up-an-event-with-multiple-dates-1.png)
 
-![register](/images/register.png)
+2. Click on `Create Event` in the middle of the page or at the top right corner next to your profile.
 
-or log in [here](https://eventyay.com/login/).
+![Multiple Dates](/images/Can-I-set-up-an-event-with-multiple-dates-2.png)
 
-![login](/images/login.PNG)
+3. You will be directed to the next page where you can fill in all **Basic Details** for your event, including its name, location, dates, tickets, etc. To set up the dates for your event, you need to provide the information as below:
 
-Visit eventyay's main page. You'll find a 'Create Event' button:
+- **Starts**: set the first/opening date of your event and its **opening time**
+- **End**:set the closing date of your event and its **closing/ending time**
+- **Timezone**: set the correct timezone for your event
 
-![Create Event button](/images/create-event-button.PNG)
+![Multiple Dates](/images/Can-I-set-up-an-event-with-multiple-dates-3.png)
 
-Please click the 'CREATE EVENT' button (with light text of a blue colour) at the top-right corner of the page to view the 'Create Event' form.
+4. After setting up your event's dates, continue to fill in all the required information under **Basic Details**. 
+Then click `Next` to proceed or `Save as draft` and come back later. 
 
-![Create Event Form](/images/create-event.PNG)
-
-You can only set up an event with multiple dates if those dates all fall within one range only (with a specified start and end) and follow one another without interruption. If your event is as such, though, adjust the dates, times and time zone as needed. Do so by clicking inside the relevant input fields.
-
-![Create Event Form 2](/images/create-event-2.PNG)
-
-You must fill in the other event details: name, location (make sure you enter that right, so that it appears live!), description (be as detailed as possible!), image and logo.
-
-When done with your event details, please enter the organiser's details; in other words, your details if you're the one organising.
-You can choose to hide these if you do not wish to enter them.
+![Multiple Dates](/images/Can-I-set-up-an-event-with-multiple-dates-4.png)
