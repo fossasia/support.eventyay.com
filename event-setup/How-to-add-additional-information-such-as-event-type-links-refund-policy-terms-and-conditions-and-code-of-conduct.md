@@ -23,7 +23,7 @@
 
 
 To add event types, simply scroll down under `ticketing`, you will immediately see `event type` menu bar.
-Event types are arranged alphabetically, you can click and scroll down for to choose the event which fits your cateogy. 
+Event types are arranged alphabetically, you can click and scroll down for to choose the event which fits your category. 
 
 
 ![Add additional information](/images/How-to-add-additional-information-Adding-Event-type-1.png)
