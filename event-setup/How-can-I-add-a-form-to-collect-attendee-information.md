@@ -1,68 +1,39 @@
-# How can I add a form to collect attendee information
+# How can I add a form to collect attendee information?
 
-## 1. If you have not created an event: 
+You need to create an event before you can set up the `Attendee Form`. To learn how to create an event, check out [How can I create an event on Eventyay](/event-setup/How-can-I-create-an-event.md). Once you have created your event, follow these steps to add and configure the `Attendee Form`. 
 
-To collect attendees information, you can have this step right at the beginning when you create an event. To learn how to create an event, check out [How can I create an event](/event-setup/How-can-I-create-an-event.md)
-
-
-## 2. If you have already had an event, you will need to follow these steps: 
-
-
-### a. Log into `Eventyay`
-
-If you have an account, log in using your `username` and `password`.
-
+1. Log in to your acocunt on **Eventyay**.
 
 ![Collect attendee information](/images/Log-in-page.png)
 
-
-### b. Choose `manage event` 
-
-
-On the top right hand corner, choose `manange event`.
-
+2. Select `Manage Events`.
 
 ![Collect attendee information](/images/How-can-I-add-a-form-to-collect-attendee-information-Manage-Event-Bar.png)
 
-
-### c. Select `event dashboard`
-Choose the event you want to creat the attendee form, then select, `event dashboard`.
+3. Go to the event you want to add **Attendee Form** and click on `Event Dashboard`
 
 ![Collect attendee information](/images/How-can-I-add-a-form-to-collect-attendee-infomation-Event-dashboard.png)
 
+4. Select `Attendee Form` under **Event setup checklist** column. 
 
-### d. Select `attendee form` 
-That will bring you to the event dashboard main page, on your left hand side, you can see a menu bar, select the attendee form.
+![Collect attendee information](/images/How-can-I-add-a-form-to-collect-attendee-information.png)
 
+5. Turn on `Attendee Form` to collect attendees' information.
 
+**Notice**: The default information required by **Eventyay** includes: `First name`, `Last name` and `Email`. By turn on `Attendee Form`, you will be able to collect more information from your attendees. 
 
-![Collect attendee information](/images/How-can-I-add-a-form-to-collect-attendee-information-select-attendee.png)
+![Collect attendee information](/images/How-can-I-add-a-form-to-collect-attendee-information-1.png)
 
+6. Once `Attendee Form` has been turned on, you will see two other tables as below:
 
-### e. Turn on attendee form
+- **Information to Collect**: A list of additional questions provided by **Eventyay** for you to choose from. If you want to include any of these questions, slide the controller in front of each question to `Include` or `Require`.  
 
-Eventyay has already created a standard form with basic information such as: `first name`, `last name` and `email`. You can always have an option of getting more information from attendees by choosing `turn on custom form`. 
+- **Add Custom Form Field**: This feature allows you to add in any other questions to collect more answers/information from your attendees. 
 
-![Collect attendee information](/images/How-can-I-add-a-form-to-collect-attendee-information-turn-on-form.png)
+![Collect attendee information](/images/How-can-I-add-a-form-to-collect-attendee-information-2.png)
 
-
-Select `turn on form`, you will have a full page of information for you to choose from, this is what a full form looks like. 
-Most of the information needed have been set up, you only need to turn on as `include` and `require`.
-
-
-![Collect attendee information](/images/How-can-I-add-a-form-to-collect-attendee-information-full-form.png)
-
-
-Also, Eventyay has a feature of `custom form` which allows you to create your own form the way you want. 
-
-
-![Collect attendee information](/images/How-can-I-add-a-form-to-collect-attendee-information-full-form.png)
-
-
-You can fill in the information you need, also you can choose the options between `text` and `number`. 
-
+**Notice**: If you want to use the `Custom Form Field`, simply input the question into `Field Name` and select the type of information you want to collect (`Text` or `Number`) from the dropdown menu. 
 
 ![Collect attendee information](/images/How-can-I-add-a-form-to-collect-attendee-information-add-custom-form-field.png)
 
-
-After you finish, select `save draft` for further modification or select `publish` to publish your event. 
+After you finish, select `Save Draft` to save your changes or publish your changes right away using the `Publish` button. You can also preview your changes in draft stage. Simply click **Preview** and see how your event would look like on the public event page once published.
