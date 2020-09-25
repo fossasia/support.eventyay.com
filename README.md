@@ -20,13 +20,21 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 * [How to add a sponsors listing to my event?](/event-setup/How-to-add-a-sponsors-listing-to-my-event.md)
 * [How to add speakers and sessions settings, call for speakers and speakers form?](/event-setup/How-to-add-speakers-and-sessions-settings-call-for-speakers-and-speakers-form.md)
 
-### Pricing
+### Pricing & Billing
 
 * [How much does it cost to sell tickets on eventyay?](/pricing/How-much-does-it-cost-to-sell-tickets.md)
 * [How much does it cost to use eventyay for a Call for Papers or Call for Speakers?](/pricing/How-much-does-it-cost-to-use-eventyay-for-a-Call-for-Papers-or-Call-for-Speakers.md)
-* [How and when do organizers pay for using eventyay?](/pricing/How-and-when-do-organizers-pay.md)
 * [What plans are available for event organizers?](/pricing/What-plans-are-available-for-event-organizers.md)
+* [How and when do organizers pay for using eventyay?](/pricing/How-and-when-do-organizers-pay.md)
 * [How to pay eventyay platform fees and subscription invoices?](/pricing/How-to-pay-eventyay-platform-fees-and-subscription-invoices.md)
+* [I am receiving invoices, I thought the ticket buyer is paying the fees. Why am I receiving invoices?](/pricing/I-am-receiving-invoices-I-thought-the-ticket-buyer-is-paying-the-fees-Why-am-I-receiving-invoices.md)
+* [When are payments due?](/pricing/When-are-payments-due.md)
+* [How do I see the itemized fees for all of my orders?](/pricing/How-do-I-see-the-itemized-fees-for-all-of-my-orders.md)
+* [Can I pay my invoice with my credit card or directly from my bank account?](/pricing/Can-I-pay-my-invoice-with-my-credit-card-or-directly-from-my-bank-account.md)
+* [If I don't want to pay this invoice online, can I send you a check in the mail?](/pricing/If-I-dont-want-to-pay-this-invoice-online-can-I-send-you-a-check-in-the-mail.md)
+* [Can I pay all of my invoices at once?](/pricing/Can-I-pay-all-of-my-invoices-at-once.md)
+* [What happens if I refund a transaction after I pay my invoice? Can I get a fee refund?](/pricing/What-happens-if-I-refund-a-transaction-after-I-pay-my-invoice-Can-I-get-a-fee-refund.md)
+* [How often will I receive an invoice?](/pricing/How-often-will-I-receive-an-invoice.md)
 
 ### Tickets & Payments
 
