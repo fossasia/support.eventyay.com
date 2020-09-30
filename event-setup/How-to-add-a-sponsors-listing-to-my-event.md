@@ -49,7 +49,7 @@ After you choose `add sponsors`, it will bring you to `sponsor custom form`, sel
 ### 6. Filling information 
 
 
-Put in the information for name, level, type (Diamond, Platinum, Gold, Silver...), the sponsor website's. 
+Put in the information for name, level, type (Diamond, Platinum, Gold, Silver...) and the sponsor website's. 
 
 
 You can always add a short abstract or description about your sponsor. You can choose your sponsor's logo (remember to ensure the size is no bigger than 1MB for best resolution).
