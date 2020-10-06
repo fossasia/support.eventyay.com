@@ -1,6 +1,6 @@
 # How can I add a form to collect attendee information?
 
-You need to create an event before you can set up the `Attendee Form`. To learn how to create an event, check out [How can I create an event on Eventyay](/event-setup/How-can-I-create-an-event.md). Once you have created your event, follow these steps to add and configure the `Attendee Form`. 
+You need to create an event before you can set up the `Attendee Form`. To learn how to create an event, check out [How can I create an event on Eventyay](../event-setup/How-can-I-create-an-event.md). Once you have created your event, follow these steps to add and configure the `Attendee Form`. 
 
 1. Log in to your acocunt on **Eventyay**.
 
