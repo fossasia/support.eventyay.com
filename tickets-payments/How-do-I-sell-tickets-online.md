@@ -1,104 +1,36 @@
 # How do I sell tickets online?
 
+You need to create an event before you can start selling tickets online. To learn how to create an event, check out [How can I create an event on Eventyay](http://support.eventyay.com/event-setup/How-can-I-create-an-event.html). Once you have done so, follow these steps to set up tickets and payment for your event. 
 
-If you want to have tickets for your event then follow these steps:
+1. Log in to your acocunt on **Eventyay**. Then select `Manage Events` from the dropdown menu under your profile. 
 
+![Sell tickets online](../images/How-do-I-sell-tickets-online-1.png)
 
-1. `Log in` to your eventyay account using your `username` and `password`.
+2. Go to the event you want to sell tickets and click on `Edit`.
 
+![Sell tickets online](../images/How-do-I-sell-tickets-online-2.png)
 
-![How do I sell tickets online](/images/Log-in-page.png)
+3. You will be directed to a page where you can edit `Basic Details` for your event. Scroll down to `Ticketing System`. There are 3 different ticket categories you can choose from: **Free Ticket**, **Paid Ticket** and **Donation Ticket**. You can add different ticket types for each category, as below: 
 
+![Sell tickets online](../images/How-do-I-sell-tickets-online-4.png)
 
-2. On the top of the page, at the `log in` button, choose `manage event`.
+Make sure to provide input for all required fields, including: `Ticket name`, `Price` (except for **Free Ticket**) and `Quantity`. Then you can click on `Settings` to configure other information (of each ticket) as in below: 
 
+![Sell tickets online](../images/How-do-I-sell-tickets-online-5.png)
 
-![How do I sell tickets online](/images/Manage-events-bar.png)
+*Notice:* 
 
+- Platform fees will always be included for paid tickets. 
+- You need to set the **start/end** - **date/time** for your tickets correctly. 
+- You can control how many tickets can be purchased in one order by setting the **min/max** number. 
 
-## In order to sell tickets online, you need to `create an event`.
+4. After setting up `Ticketing System`, you need to `Add Payment Details` (as below) in order to start selling tickets on **Eventyay**. 
 
+![Sell tickets online](../images/How-do-I-sell-tickets-online-6.png)
 
-1. On the right hand corner of the page select `create an event`.
+*Notice:* 
+- Select **country** where your payment accounts are registered in and select the **currency** you want to apply for your tickets.
+- Choose payment methods: **online/offline** or both and follow instruction in each method to complete the set-up.
+- Add **tax information** if needed 
 
-
-![How do I sell tickets online](/images/How-to-sell-tickets-online-create-event-1.png)
-
-
-## Adding Basic Details 
-
-Fill in your event details: name, location, timezone (Make sure you enter that right, so that it appears live!), 
-description (be as detailed as possible!), logo and event's cover image.
-
-
-![How do I sell tickets online](/images/how-to-create-an-event-basic-details1.png)
-
-
-Slide the cursor to the right if you wish to add owner/organizer's details. Underneath you see the boxes where you can add website & all 
-social media links of the event. 
-
-
-![How do I sell tickets online](/images/how-to-create-an-event-basic-details2.png)
-
-
-Next, you will need to provide tickets information. Add at least one ticket type to proceed. A details explaination on adding tickets 
-can be found here.
-
-
-Finally, add any additional details, like the type, topic and license, etc... Click `Forward` to go the next step of the event
-creation process.
-
-
-![How do I sell tickets online](/images/how-to-create-an-event-basic-details3.png)
-
-
-## There are 3 types of tickets:
-
-
-### 1. Free tickets
-
-
-Make sure you `fill in` the mandatory information ( `*` ) .
-
-
-a. `Ticket name` and `Quantity`. 
-
-
-b. `Settings`: you can write your tickets'description, you can also choose to `display` or `hide` by clicking one of the boxes.
-
-
-c. `Start` and `end`: you can choose when the tickets are available for sale and when the sale ends (with the exact time by selecting the clock) by choosing `start` and `end`.
-
-
-d. Number of tickets allowed per order: it is important to set the `minimum` and `maxinum` (the number of tickets are allowed to purchase per account).
-
-
-e. You can also add `ticket code group` if needed.
- 
-
-![How do I sell tickets online](/images/How-to-sell-tickets-online-adding-free-tickets-1.png)
-
-
-### 2. Paid tickets
-To add paid tickets, click `Paid Tickets`, you can see the only thing that is different from free tickets is that `price`, so make sure you set a price for the tickets you want to sell.  
-
-
-
-![How do I sell tickets online](/images/How-to-sell-tickets-online-adding-paid-tickets-1.png)
-
-
-### 3. Donation tickets
-
-
-For donation tickets are ranging from $1 to $10,000, you can choose any price within that range. Simply fill in the same in formation as the other ticket types.  
-
-![How do I sell tickets online](/images/How-to-sell-tickets-online-adding-donation-tickets-1.png)
-
-
-After all steps are done, click `forward` or `publish` 
-
-
-This is what your ticket main page should look like
-
-
-![How do I sell tickets online](/images/How-do-I-sell-tickets-online-ticket-main-page.png)
+After you finish, click `Save` to save your changes or publish your changes right away using the `Publish` button. You can also preview your changes in draft stage, simply by clicking `View` button. You'll see how your event would look like on the public events page once published.
