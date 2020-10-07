@@ -35,6 +35,9 @@ Make sure to provide input for all required fields, including: `Ticket name`, `P
 - You need to set the **start/end** - **date/time** for your tickets correctly. 
 - You can control how many tickets can be purchased in one order by setting the **min/max** number. 
 
+
+
+
 4. After setting up `Ticketing System`, you need to `Add Payment Details` (as below) in order to start selling tickets on **Eventyay**. 
 
 
