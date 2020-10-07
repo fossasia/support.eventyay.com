@@ -4,9 +4,17 @@ You need to create an event before you can start selling tickets online. To lear
 
 1. Log in to your acocunt on **Eventyay**. Then select `Manage Events` from the dropdown menu under your profile. 
 
+
+
+
+
     ![Sell tickets online](../images/How-do-I-sell-tickets-online-1.png)
 
 2. Go to the event you want to sell tickets and click on `Edit`.
+
+
+
+
 
     ![Sell tickets online](../images/How-do-I-sell-tickets-online-2.png)
 
