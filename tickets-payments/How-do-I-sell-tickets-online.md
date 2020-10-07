@@ -20,6 +20,9 @@ You need to create an event before you can start selling tickets online. To lear
 
 3. You will be directed to a page where you can edit `Basic Details` for your event. Scroll down to `Ticketing System`. There are 3 different ticket categories you can choose from: **Free Ticket**, **Paid Ticket** and **Donation Ticket**. You can add different ticket types for each category, as below: 
 
+
+
+
     ![Sell tickets online](../images/How-do-I-sell-tickets-online-4.png)
 
 Make sure to provide input for all required fields, including: `Ticket name`, `Price` (except for **Free Ticket**) and `Quantity`. Then you can click on `Settings` to configure other information (of each ticket) as in below: 
