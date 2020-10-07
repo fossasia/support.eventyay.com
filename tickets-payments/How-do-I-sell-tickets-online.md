@@ -34,7 +34,7 @@ Make sure to provide input for all required fields, including: `Ticket name`, `P
 
 4. After setting up `Ticketing System`, you need to `Add Payment Details` (as below) in order to start selling tickets on **Eventyay**. 
 
-![Sell tickets online](../images/How-do-I-sell-tickets-online-6.png)
+    ![Sell tickets online](../images/How-do-I-sell-tickets-online-6.png)
 
 *Notice:* 
 - Select **country** where your payment accounts are registered in and select the **currency** you want to apply for your tickets.
