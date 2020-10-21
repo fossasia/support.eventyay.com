@@ -59,7 +59,6 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 
 * [How to create a discount code for tickets?](/promotions-discounts/How-to-create-a-discount-code-for-tickets.md)
 * [How to add an expiry date to a discount code?](/promotions-discounts/How-to-add-an-expiry-date-to-a-discount-code.md)
-* [How do I apply my discount code to a ticket?](/promotions-discounts/How-do-I-apply-my-discount-code-to-a-ticket.md)
 
 ### Cancellations & Refunds
 
