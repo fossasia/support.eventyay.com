@@ -1,9 +1,28 @@
-Hello, 
+# How to set refund policy?
 
-this article is not yet available. Our team is working hard to answer all questions. We will be adding this article soon. 
+Refund policy will help attendees to be aware about what involved when they ask for a refund after purchasing a ticket. In order to set refund policy, please follow these steps:
 
-Please check back again in a few days.
+## Step 1: Log in 
+Log into your Eventyay account by using your account name and password.
 
-If you are interested in helping to create the documentation for the project, please join us on Github [here](https://github.com/fossasia/support.eventyay.com).
+![Set refund policy](/images/login_box_new.png)
 
-Thank you!
+## Step 2: Manage event
+
+On the top right hand corner, on the drop down menu, click then select `manage event`. 
+
+![Set refund policy](/images/How-to-set-refund-policy-2.png)
+
+## Step 3: Event management
+
+Choose the event to which you want to add `Refund Policy`, click `edit`. 
+
+![Set refund policy](/images/How-to-set-refund-policy-3.png)
+
+You will then be at the main `Event Editing` page, the next step is to choose `additional info`.
+
+![Set refund policy](/images/How-to-set-refund-policy-4.png)
+
+Scroll down, you will immediately see `refund policy` box, then just put your information into the box, after that, click save. 
+
+ ![Set refund policy](/images/How-to-set-refund-policy-5.png)
