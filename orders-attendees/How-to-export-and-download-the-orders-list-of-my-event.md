@@ -1,9 +1,17 @@
-Hello, 
+# How to export and download the orders list of my event?
 
-this article is not yet available. Our team is working hard to answer all questions. We will be adding this article soon. 
+### 1. Log in
+Log in using your Eventyay `username` and `password`. On the top right hand corner, click on your username, choose `manage event`.
+![order-attendees](/images/How-to-export-and-download-the-orders-list-of-my-event-1.png)
 
-Please check back again in a few days.
+### 2. Event dashboard
+Choose the event you want to export the orders list, then select `event dashboard`.
+![order-attendees](/images/How-to-export-and-download-the-orders-list-of-my-event-2.png)
 
-If you are interested in helping to create the documentation for the project, please join us on Github [here](https://github.com/fossasia/support.eventyay.com).
+### 3. Select `tickets` and choose `orders`
+In the menu bar select the `tickets` and then on the left table choose `orders`.
+![order-attendees](/images/How-to-export-and-download-the-orders-list-of-my-event-3.png)
 
-Thank you!
+### 4. Click on `export as`
+In here you can either export to PDF or CSV (Excel spreadsheet). Your file will be downloaded under .pdf format or .csv format.  
+![order-attendees](/images/How-to-export-and-download-the-orders-list-of-my-event-4.png)
