@@ -24,5 +24,7 @@ This will take you to the main event management site, this will allow you to go 
 On the left hand corner, select `attendees`, you will be taken to the attendee management page. In order to contact the attendees, you can search for your attendees' information by typing either their `first name` of `last name`. Also, you can search for your attendees' information my typing in their `email address`. 
 ![How to contact attendees](/images/How-to-contact-attendees-of-an-event-3.png)
 
+You can see the red box on the right hand corner, you can type in your attendees information. 
+![How to contact attendees](/images/How-to-contact-attendees-of-an-event-4.png)
 Repeat the same if you want to search for your attendees's information
 
