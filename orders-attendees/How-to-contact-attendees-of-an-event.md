@@ -1,9 +1,25 @@
-Hello,
+# How to contact attendees of an event?
 
-this article is not yet available. Our team is working hard to answer all questions. We will be adding this article soon.
+Sometimes organisers might need to contact an attendees due to many reason especially regarding payments. In order to contact your attendees, please follow these steps. 
 
-Please check back again in a few days.
+## Step 1: Log in
+`Log in` by using your `username` and `password`
 
-If you are interested in helping to create the documentation for the project, please join us on Github here.
+![Report on sales](/images/Log-in-page.png)
 
-Thank you!
+## Step 2: Manage Event
+On the top right hand corner, click on the drop down button, select `manage event`. 
+
+![Report on sales](/images/Manage-events-bar.png)
+
+## Step 3: Event dashboard
+Select the event you want to create a `discount code` for, then select `Event dashboard`.
+
+![Report on sales](/images/How-to-create-a-discount-code-for-tickets-8.png)
+
+## Step 4: Event Management
+
+
+
+ 
+
