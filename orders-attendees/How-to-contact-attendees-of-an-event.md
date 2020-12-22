@@ -19,7 +19,7 @@ Select the event you want to create a `discount code` for, then select `Event da
 
 ## Step 4: Event Management
 
+![How to contact attendees](/images/How-to-contact-attendees-of-an-event-2.png)
 
-
- 
+![How to contact attendees](/images/Add-new-session-button.png)
 
