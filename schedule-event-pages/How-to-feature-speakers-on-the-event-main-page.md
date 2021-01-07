@@ -25,9 +25,13 @@ You are on the Event management main page, there is a menu bar which shows diffe
 From here, you can see your list of speakers displayed, please note that, you should only feature speakers who have already confirmed. Then, on the right hand side, you can see the `Feature` button, move the cursor to the right, this will enable you to feature your speaker on the main `Eventyay` page.
 ![Feature speakers](/images/How-to-feature-speakers-on-the-event-main-page-4.png)
 
-It will look like this:
+It will look like this.
 ![Feature speakers](/images/How-to-feature-speakers-on-the-event-main-page-3.png)
 
+If you want to preview and make sure your featured speakers are display accordingly, click `Preview`, this button is placed at the upper part of the page and on the right. You will then be directed to the main event page. On the left hand side, select `Speakers`, this will allow you to view your featured speakers. 
 ![Feature speakers](/images/How-to-feature-speakers-on-the-event-main-page-5.png)
 
+This is how it should look like.
 ![Feature speakers](/images/How-to-feature-speakers-on-the-event-main-page-6.png)
+
+** Repeat the steps to feature more speakers on your main event page. 
