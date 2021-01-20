@@ -36,6 +36,6 @@ Now click on the order for which you want to view the attendee details.
 ![attendee detail](/images/How-to-edit-orders-and-attendee-details-7.png)
 ![attendee detail](/images/How-to-edit-orders-and-attendee-details-8.png)
 
-finally,done 
+finally,done.
 
-thanks for your visit **http://support.eventyay.com**
+thanks for your visit **http://support.eventyay.com**.
