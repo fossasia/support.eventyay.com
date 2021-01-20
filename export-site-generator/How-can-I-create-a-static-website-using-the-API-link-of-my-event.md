@@ -28,12 +28,11 @@ Now, scroll down.
 
 ## Step 5 : Website Generator
 **NOW CLICK ON `Website Generator`**
- website generator  transfers the data of the event via an API to our website tool and creates a static website for you. You can download the entire site as a zip file
- and upload it to your own web hosting service. 
+ website generator  transfers the data of the event via an API to our website tool and creates a static website for you. You can download the entire site as a zip fill and upload it to your own web hosting service. 
  ![Website Generator](/images/How-can-I-create-a-static-website-using-the-API-link-of-my-event-5.png)
  
  ## Step 6 : Fill details
- Now, fill/ set all details accroding to requirement and then click on `generate webapp`
+ Now, fill/ set all details according to requirement and then click on `generate webapp`
  ![Website Generator](/images/How-can-I-create-a-static-website-using-the-API-link-of-my-event-6.png)
  ![Website Generator](/images/How-can-I-create-a-static-website-using-the-API-link-of-my-event-7.png)
  
@@ -41,6 +40,6 @@ Now, scroll down.
  Now, the generated webapp looks like this!
   ![Generated webapp](/images/How-can-I-create-a-static-website-using-the-API-link-of-my-event-8.png)
 
-Finally,done
+Finally,done.
 
-Thanks for your visit **http://support.eventyay.com**
+Thanks for your visit **http://support.eventyay.com**.
