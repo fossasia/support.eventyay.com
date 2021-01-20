@@ -15,7 +15,7 @@ In order to  edit orders and attendee details, please follow these steps:
 ![login page](/images/How-to-edit-orders-and-attendee-details-1.png)
 
 ## Step 2 : Manage events
-Now,click on `manage events`
+Now, click on `manage events`
 ![manage events](/images/How-to-edit-orders-and-attendee-details-2.png)
 
 ## Step 3 : Select event
