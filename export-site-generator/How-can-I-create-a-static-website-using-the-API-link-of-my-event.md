@@ -15,7 +15,7 @@ In order to create a static website using the API link of my event, please follo
 ![login page](/images/How-can-I-create-a-static-website-using-the-API-link-of-my-event-1.png)
 
 ## Step 2 : Manage events
-Now,click on `manage events`
+Now, click on `manage events`
 ![manage events](/images/How-can-I-create-a-static-website-using-the-API-link-of-my-event-2.png)
 
 ## Step 3 : Select event
