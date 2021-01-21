@@ -27,8 +27,8 @@ Now, click on `tickets`
 ![event dashboard](/images/How-to-edit-orders-and-attendee-details-4.png)
 ![tickets](/images/How-to-edit-orders-and-attendee-details-5.png)
 
-## Step 5 : Edit orders 
-Now click on `view orders` in this way you will be able to edit orders i.e. `completed,placed,expired or cancelled `.
+## Step 5 : Select order 
+Now click on `select orders`  in this way you can be able to cancel an order by selecting it and click on the X icon.
 ![orders](/images/How-to-edit-orders-and-attendee-details-6.png)
 
 ## Step 6 : Attendees
