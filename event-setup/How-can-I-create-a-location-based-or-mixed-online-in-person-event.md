@@ -1,3 +1,7 @@
+---
+title: How can I create a location based or mixed online in person event
+---
+
 # How can I create a location based or mixed online/in-person event?
 
 1. Login to your account on [eventyay.com](https://eventyay.com).
@@ -33,4 +37,3 @@ There are 4 options you can choose from including: **Venue**, **Online**, **Mixe
 Then click `Next` to proceed or `Save as draft` and come back later. 
 
 ![Mixed Location](/images/How-can-I-create-a-location-based-or-mixed-online-in-person-event-8.png)
-

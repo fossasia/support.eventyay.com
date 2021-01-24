@@ -1,3 +1,7 @@
+---
+title: How to accept confirm reject speakers
+---
+
 ## How to accept, confirm or reject speakers? 
 
 
@@ -32,5 +36,3 @@ To accept, confirm or reject speaker, select "speakers" on the menu bar
 
 
 ### 3. How to reject speakers?
-
-

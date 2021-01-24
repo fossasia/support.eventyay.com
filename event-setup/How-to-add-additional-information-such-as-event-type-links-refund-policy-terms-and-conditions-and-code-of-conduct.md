@@ -1,3 +1,7 @@
+---
+title: How to add additional information such as event type links refund policy terms and conditions and code of conduct
+---
+
 # How to add additional information such as event type, links, refund policy, terms and conditions, and code of conduct?
 
 

@@ -1,3 +1,7 @@
+---
+title: How can I set up the system myself
+---
+
 # How can I set up the system myself?
 
 In order to set up the [Open Event software suite](https://github.com/fossasia?q=open-event) that is powering [eventyay.com](https://eventyay.com) yourself, you need to have a server and knowledge of commandline.

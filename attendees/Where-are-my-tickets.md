@@ -1,3 +1,7 @@
+---
+title: Where are my tickets
+---
+
 # Where are my tickets?
 
 
@@ -27,7 +31,3 @@ Click 'My Tickets' under the control panel (tap on your profile icon on the top 
 
 
 ![Speakers](/images/Ticket-Sample.png)
-
-
-
-

@@ -1,3 +1,7 @@
+---
+title: How to resend confirmation emails for ticket orders
+---
+
 # How to resend confirmation emails for your ticket orders?
 
 In case your customers' orders have been completed, yet they have not received a confirmation order. To resend confirmation emails, please follow these steps. 

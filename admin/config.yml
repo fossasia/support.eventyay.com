@@ -1,0 +1,97 @@
+# config.yml
+
+backend:
+  name: github
+  repo: fossasia/support.eventyay.com
+  branch: master # Branch to update (optional; defaults to master)
+  base_url: https://fossasia-netlify-cms.glitch.me
+  open_authoring: true
+publish_mode: editorial_workflow
+media_folder: 'images'
+collections:
+  - name: 'home'
+    label: 'Home'
+    files:
+      - name: 'home'
+        label: 'Home'
+        file: 'README.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'attendees'
+    label: 'Attendees'
+    folder: '/attendees/'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'cancellations-refunds'
+    label: 'Cancellation/Refunds'
+    folder: '/cancellations-refunds/'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'check-in'
+    label: 'Check In'
+    folder: '/check-in/'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'contributors-developers'
+    label: 'Contributors/Developers'
+    folder: '/contributors-developers/'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'event-setup'
+    label: 'Event Setup'
+    folder: '/event-setup/'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'event-roles'
+    label: 'Event Roles'
+    folder: '/event-roles/'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'orders-attendees'
+    label: 'Orders/Attendees'
+    folder: '/orders-attendees/'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'pricing'
+    label: 'Pricing'
+    folder: '/pricing/'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'speakers'
+    label: 'Speakers'
+    folder: '/speakers/'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'speakers-sessions'
+    label: 'Speakers Sessions'
+    folder: '/speakers-sessions/'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'tickets-payments'
+    label: 'Tickets Payments'
+    folder: '/tickets-payments/'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }

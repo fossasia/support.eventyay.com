@@ -1,3 +1,7 @@
+---
+title: How do I accept on site payments at the door for tickets
+---
+
 # How do I accept on-site payments at the door for tickets? 
 
 

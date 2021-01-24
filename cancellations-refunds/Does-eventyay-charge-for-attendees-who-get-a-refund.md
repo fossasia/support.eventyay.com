@@ -1,3 +1,7 @@
+---
+title: Does eventyay charge for attendees who get a refund
+---
+
 Hello, 
 
 this article is not yet available. Our team is working hard to answer all questions. We will be adding this article soon. 

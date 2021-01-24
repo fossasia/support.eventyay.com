@@ -1,3 +1,7 @@
+---
+title: As an event organizer how can I add a speaker or session into the system
+---
+
 Hello, 
 
 this article is not yet available. Our team is working hard to answer all questions. We will be adding this article soon. 

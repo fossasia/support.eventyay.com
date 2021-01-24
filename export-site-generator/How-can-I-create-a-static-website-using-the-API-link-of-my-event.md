@@ -1,3 +1,7 @@
+---
+title: How can I create a static website using the API link of my event
+---
+
 Hello, 
 
 this article is not yet available. Our team is working hard to answer all questions. We will be adding this article soon. 

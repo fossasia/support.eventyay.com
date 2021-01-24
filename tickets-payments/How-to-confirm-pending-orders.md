@@ -1,3 +1,7 @@
+---
+title: How to confirm pending orders
+---
+
 # How to confirm pending orders?
 
 Everytime an attendee places a ticket, that ticket will be accounted as `placed` ticket. 
@@ -46,4 +50,3 @@ Then, you will be ask to re-confirm once more, click `yes`.
 Finally, you will be able to see the confirmed has now been recorded as `COMPLETED`.
 
 ![Confirm pending orders](/images/How-to-confirm-pending-orders-8.png)
-

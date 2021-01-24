@@ -1,3 +1,7 @@
+---
+title: How much does it cost to sell tickets
+---
+
 # How much does it cost to sell tickets on eventyay?
 
 ![Selling tickets on eventyay](/images/How-much-does-it-cost-to-sell-tickets-on-eventyay-1.png)

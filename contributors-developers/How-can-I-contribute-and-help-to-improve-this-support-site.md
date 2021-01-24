@@ -1,3 +1,7 @@
+---
+title: How can I contribute and help to improve this support site
+---
+
 # How can I contribute and help to improve this support site
 
 We always welcome developers and contributors who would like to help improve the documentation. 

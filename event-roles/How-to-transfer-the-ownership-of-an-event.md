@@ -1,3 +1,7 @@
+---
+title: How to transfer the ownership of an event
+---
+
 # How to transfer the ownership of an event?
 
 1. Sign in to your eventyay account, then click on **Manage Events** under your profile. 

@@ -1,3 +1,7 @@
+---
+title: What currencies are supported for ticket sales
+---
+
 # What currencies are supported for ticket sales? 
 
 ![Currency support](/images/What-currencies-are-supported-for-ticket-sales-1.png)
@@ -40,4 +44,3 @@ You can select the country of your choice by clicking the box, and countries are
 
 Then, you can also select the currency for your ticket sales. Similarly, currencies are also arranged from A - Z. 
 ![Currency support](/images/What-currencies-are-supported-for-ticket-sales-5.png)
-

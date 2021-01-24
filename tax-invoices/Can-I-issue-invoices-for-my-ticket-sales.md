@@ -1,3 +1,7 @@
+---
+title: Can I issue invoices for my ticket sales
+---
+
 Hello, 
 
 this article is not yet available. Our team is working hard to answer all questions. We will be adding this article soon. 

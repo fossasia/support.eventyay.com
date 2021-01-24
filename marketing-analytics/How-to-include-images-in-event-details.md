@@ -1,3 +1,7 @@
+---
+title: How to include images in event details
+---
+
 # How to include images in event details?
 
 1. Click on **Event Dashboard** of the event you want to include images.

@@ -1,3 +1,7 @@
+---
+title: Who develops eventyay
+---
+
 # Who develops eventyay?
 
 [eventyay.com](https://eventyay.com) is the hosted service of the [Open Event](https://github.com/fossasia?q=open-event) application developed by [FOSSASIA](https://fossasia.org) in cooperation with a global community. 

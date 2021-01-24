@@ -1,3 +1,7 @@
+---
+title: How to buy a tickets on eventyay
+---
+
 To get started, go to [eventyay.com](eventyay.com) and search for the event you want to register for. Alternatively, you can go to the event page directly using the link provided by the event organizer. 
 
 Then select ticket type and number of tickets you want to purchase and proceed. Once you complete your order, you’ll receive a confirmation email with your ticket information. 

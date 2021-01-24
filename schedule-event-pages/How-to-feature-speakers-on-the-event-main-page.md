@@ -1,3 +1,7 @@
+---
+title: How to feature speakers on the event main page
+---
+
 # How to feature speakers on the event main page?
 
 Every time when you organise an event, you would receive a number of speaker submissions and you want to display your key or featured speakers to your main page on `Eventyay`. In order to display or to feature your speakers, please follow these steps: 

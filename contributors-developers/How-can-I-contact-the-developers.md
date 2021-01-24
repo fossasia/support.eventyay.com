@@ -1,3 +1,7 @@
+---
+title: How can I contact the developers
+---
+
 # How can I contact the developers?
 
 There are different ways to contact maintainers and developers of the [Open Event software suite](https://github.com/fossasia?q=open-event) that powers [eventyay.com](https://eventyay.com). 

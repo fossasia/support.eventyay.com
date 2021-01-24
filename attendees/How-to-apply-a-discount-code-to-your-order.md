@@ -1,3 +1,7 @@
+---
+title: How to apply a discount code to your order
+---
+
 # How to apply a discount code for my order?
 
 
@@ -26,5 +30,3 @@ Alternatively, you can use the discount link shared by the event organizer to ac
 ### 4. If the promotional code you entered was applied successfully, you'll see a ticket at a discounted price. Click 'Order Now' to proceed.
 
 ![Apply Discount Code](/images/How-to-apply-a-discount-code4.png)
-
-

@@ -1,3 +1,7 @@
+---
+title: How to add speakers and sessions settings call for speakers and speakers form
+---
+
 # How to add speakers and sessions settings, call for speakers and speakers form?
 
 In the article [How can I create an event](/event-setup/How-can-I-create-an-event?.md), we have gone through the 5 parts we need to include in each event, which are: **Basic Details**, **Additional Info**, **Attendee Form**, **Sponsors**, and **Sessions & Speakers**. In this article, we will go into details how to add `speakers` and `sessions` settings, `call for speakers` and `speakers form`.

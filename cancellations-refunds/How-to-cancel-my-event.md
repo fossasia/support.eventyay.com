@@ -1,3 +1,7 @@
+---
+title: How to cancel my event
+---
+
 # How to cancel my event? 
 
 
@@ -40,8 +44,3 @@ On the upper right hand corner, select "manage event"
 ## 6. Finally, select "Delete event"
 
 ![deleting](/images/Deleting-event-5.png)
-
-
-
-
-

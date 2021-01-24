@@ -1,3 +1,7 @@
+---
+title: How to cancel a ticket order
+---
+
 # How to cancel a ticket order?
 
 To cancel an order, there are a few steps that you can follow. 
@@ -30,4 +34,3 @@ The system will automatically ask you again if you want to delete the order, cli
 ![Cancel ticket order](/images/How-to-cancel-a-ticket-order-4.png)
 
 Repeat these steps if you want to cancel more tickets. 
-

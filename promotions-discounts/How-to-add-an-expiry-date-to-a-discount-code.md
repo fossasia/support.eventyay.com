@@ -1,3 +1,7 @@
+---
+title: How to add an expiry date to a discount code
+---
+
 # How to add an expiry date to a discount code?
 
 
@@ -21,4 +25,3 @@ If you have not `Create a Discount` you can check on here [How to create a disco
 4. Scroll down the form and you will find a button `Show more options` click on it and in here you can set the dates then click on `Save`.
     Note: you can set the expiry date for your discount codes when you do `create a discount`.
 ![Promotion Discount](/images/how-to-add-an-expiry-date-to-a-discount-code-4.png)
-

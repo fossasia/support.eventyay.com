@@ -1,3 +1,7 @@
+---
+title: How much does it cost to use eventyay for a Call for Papers or Call for Speakers
+---
+
 # How much does it cost to use Eventyay for a Call for Papers or Call for Speakers?
 
 ![Cost for Papers and speakers](/images/How-much-does-it-cost-to-use-eventyay-for-a-Call-for-Papers-or-Call-for-Speakers-1.png)

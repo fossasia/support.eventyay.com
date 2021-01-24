@@ -1,3 +1,7 @@
+---
+title: How to create a discount code for tickets
+---
+
 # How to create a discount code for tickets?
 To provide a discount code to attendees, please follow these steps:
 
@@ -47,10 +51,3 @@ After filling out all information, you can see the discount link. You can provid
 ![Discount code](/images/How-to-create-a-discount-code-for-tickets-5.png)
 
 Finally, select `Save`. 
-
-
-
-
-
-
-

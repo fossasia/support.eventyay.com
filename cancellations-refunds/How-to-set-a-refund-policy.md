@@ -1,3 +1,7 @@
+---
+title: How to set a refund policy
+---
+
 # How to set refund policy?
 
 Refund policy will help attendees to be aware about what involved when they ask for a refund after purchasing a ticket. In order to set refund policy, please follow these steps:

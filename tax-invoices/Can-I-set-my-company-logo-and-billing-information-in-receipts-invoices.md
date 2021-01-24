@@ -1,3 +1,7 @@
+---
+title: Can I set my company logo and billing information in receipts invoices
+---
+
 Hello, 
 
 this article is not yet available. Our team is working hard to answer all questions. We will be adding this article soon. 

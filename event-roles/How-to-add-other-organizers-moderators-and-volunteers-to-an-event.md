@@ -1,3 +1,7 @@
+---
+title: How to add other organizers moderators and volunteers to an event
+---
+
 # How to add more organizers into an event?
 Once you have created and puplished your event, you will be able to add more organizers or coorganizers into your event. The person then needs to click on the invitation link sent to their email to accept the role. 
 Below you'll find the instructions in details.

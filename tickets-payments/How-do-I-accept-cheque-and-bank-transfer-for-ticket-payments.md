@@ -1,3 +1,7 @@
+---
+title: How do I accept cheque and bank transfer for ticket payments
+---
+
 # How do I accept cheque and bank transfer for ticket payments?
 
 

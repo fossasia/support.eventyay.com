@@ -1,3 +1,7 @@
+---
+title: How do I sell tickets using PayPal
+---
+
 # How do I sell tickets using PayPal?
 
 You need to create an event before you can start selling tickets online. To learn how to create an event, check out [How can I create an event on Eventyay](http://support.eventyay.com/event-setup/How-can-I-create-an-event.html). Once you have done so, follow these steps to set up tickets and payment for your event. 

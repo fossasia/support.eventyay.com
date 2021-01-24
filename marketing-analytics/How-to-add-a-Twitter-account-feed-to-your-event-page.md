@@ -1,3 +1,7 @@
+---
+title: How to add a Twitter account feed to your event page
+---
+
 # How to add a Twitter account feed to your event page?
 
 1. Click on **Event Dashboard** of the event you want to add a Twitter account. 

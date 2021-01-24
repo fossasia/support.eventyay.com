@@ -1,3 +1,7 @@
+---
+title: How do I submit a session
+---
+
 
 # How do I submit a talk? 
 
@@ -55,7 +59,3 @@ For slides, you can either copy an URL or attach a file by clicking "select a fi
 
 
 ![Overview page](/images/Session-details-2-2.png)
-
-
-
-

@@ -1,3 +1,7 @@
+---
+title: Can I set up an event with multiple dates
+---
+
 # Can I set up an event with multiple dates?
 
 1. Login to your account on [eventyay.com](https://eventyay.com).

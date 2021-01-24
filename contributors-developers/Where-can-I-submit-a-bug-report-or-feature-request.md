@@ -1,3 +1,7 @@
+---
+title: Where can I submit a bug report or feature request
+---
+
 # Where can I submit a bug report or feature request?
 
 There are different repositories for different components of the [Open Event software suite](https://github.com/fossasia?q=open-event) that is powering [eventyay.com](https://eventyay.com). If you are unsure where to post a bug report or feature request just create an issue in the [Open Event Frontend](https://github.com/fossasia/open-event-frontend/issues) issue tracker, please. If this is related to another component we will move the issue where it belongs. In order to post issues you need a GitHub login.

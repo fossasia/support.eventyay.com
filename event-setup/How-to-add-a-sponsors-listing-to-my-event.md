@@ -1,3 +1,7 @@
+---
+title: How to add a sponsors listing to my event
+---
+
 # How to add a sponsors listing to my event?
 
 
