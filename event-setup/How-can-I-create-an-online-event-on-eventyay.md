@@ -23,7 +23,7 @@ In order to create an online event, select `online` on the menu bar.
 
 ![Create Event Form](/images/How-can-I-create-an-online-event-online-location-1.png)
 
-You will have the options to add an URL for `Live stream` or `Webminar`, then insert the links into the boxes. 
+You will have the options to add an URL for `Live stream` or `Webinar`, then insert the links into the boxes. 
 
 ![Create Event Form](/images/How-can-I-create-an-online-event-online-location-2.png)
 
